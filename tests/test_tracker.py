@@ -29,6 +29,17 @@ class TrackerTests(unittest.TestCase):
             self.assertIsNone(row['score'])
             self.assertEqual(run.call_count, 1)
 
+    def test_upstream_bot_lookup_failure_is_explicit(self):
+        repo = {'full_name': 'owner/repo', 'html_url': 'https://github.com/owner/repo'}
+        with patch('scripts.update_readme.subprocess.run') as run:
+            run.return_value = subprocess.CompletedProcess(
+                [], 1, '', "Could not resolve to a User with the login of 'Copilot'."
+            )
+            row = score_repository(repo)
+            self.assertIsNone(row['score'])
+            self.assertEqual(row['status'], 'OpenSSF contributor lookup failed')
+            self.assertEqual(run.call_count, 1)
+
     def test_failure_does_not_discard_other_scores(self):
         rows = [
             {'repository': 'o/failed', 'url': 'https://github.com/o/failed', 'score': None, 'status': 'Collection failed'},

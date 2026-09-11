@@ -44,6 +44,9 @@ def score_repository(repo):
             if 'Repo cannot be collected' in result.stderr:
                 status = 'Unsupported by OpenSSF collector'
                 break
+            if 'Could not resolve to a User' in result.stderr:
+                status = 'OpenSSF contributor lookup failed'
+                break
             if 'rate limit' in result.stderr.lower():
                 status = 'GitHub rate limit reached'
             elif result.returncode == 0:
@@ -88,6 +91,9 @@ def render_readme(results, updated):
         'by the token and any organization SSO restrictions.',
         '- Private repositories are attempted too, but open-source ecosystem signals '
         'may be incomplete. This is a criticality metric, not a security rating.',
+        '- OpenSSF v2.0.4 can fail when a bot contributor (such as `Copilot`) is '
+        'queried as a regular user. These repositories show `OpenSSF contributor '
+        'lookup failed` instead of an invented score.',
         '- Unavailable scores are shown explicitly; previous scores are never presented '
         'as fresh results. Raw results are in [scores.json](scores.json).',
         '- `TRACKER_GITHUB_TOKEN` is an Actions secret initialized from the existing '
