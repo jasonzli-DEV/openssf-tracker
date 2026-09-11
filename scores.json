@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11 21:44:17 UTC",
+  "updated_at": "2026-09-11 21:48:46 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -90,7 +90,7 @@
       "repository": "jasonzli-DEV/Drive",
       "url": "https://github.com/jasonzli-DEV/Drive",
       "score": null,
-      "status": "Collection failed"
+      "status": "OpenSSF contributor lookup failed"
     },
     {
       "repository": "jasonzli-DEV/Drive-Shift",
@@ -132,7 +132,7 @@
       "repository": "jasonzli-DEV/ghostdeps",
       "url": "https://github.com/jasonzli-DEV/ghostdeps",
       "score": null,
-      "status": "Collection failed"
+      "status": "OpenSSF contributor lookup failed"
     },
     {
       "repository": "jasonzli-DEV/Ghostdeps-test",
@@ -150,7 +150,7 @@
       "repository": "jasonzli-DEV/jasonzli-dev.github.io",
       "url": "https://github.com/jasonzli-DEV/jasonzli-dev.github.io",
       "score": null,
-      "status": "Collection failed"
+      "status": "OpenSSF contributor lookup failed"
     },
     {
       "repository": "jasonzli-DEV/Jesters-Slave",
@@ -168,7 +168,7 @@
       "repository": "jasonzli-DEV/MCPlugins",
       "url": "https://github.com/jasonzli-DEV/MCPlugins",
       "score": null,
-      "status": "Collection failed"
+      "status": "OpenSSF contributor lookup failed"
     },
     {
       "repository": "jasonzli-DEV/messageMe",
@@ -210,12 +210,12 @@
       "repository": "jasonzli-DEV/mossBot",
       "url": "https://github.com/jasonzli-DEV/mossBot",
       "score": null,
-      "status": "Collection failed"
+      "status": "OpenSSF contributor lookup failed"
     },
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.11101,
+      "score": 0.11154,
       "status": "Scored"
     },
     {

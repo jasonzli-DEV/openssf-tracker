@@ -2,7 +2,7 @@
 
 Daily [OpenSSF Criticality Scores](https://github.com/ossf/criticality_score) for all repositories accessible to my GitHub account, including owned, collaborator, and organization repositories. Scores range from **0 to 1** and estimate project importance to the open-source ecosystem.
 
-Updated: **2026-09-11 21:44:17 UTC** · **71/76** repositories scored.
+Updated: **2026-09-11 21:48:46 UTC** · **71/76** repositories scored.
 
 | Repository | Criticality score | Status |
 | --- | ---: | --- |
@@ -71,17 +71,17 @@ Updated: **2026-09-11 21:44:17 UTC** · **71/76** repositories scored.
 | [jasonzli-DEV/PacMan](https://github.com/jasonzli-DEV/PacMan) | 0.13277 | Scored |
 | [jasonzli-DEV/ServerImporter](https://github.com/jasonzli-DEV/ServerImporter) | 0.13277 | Scored |
 | [jasonzli-DEV/SimpliSure](https://github.com/jasonzli-DEV/SimpliSure) | 0.11230 | Scored |
+| [jasonzli-DEV/openssf-tracker](https://github.com/jasonzli-DEV/openssf-tracker) | 0.11154 | Scored |
 | [jasonzli-DEV/codex-roster](https://github.com/jasonzli-DEV/codex-roster) | 0.11128 | Scored |
 | [jasonzli-DEV/jasonzli-DEV](https://github.com/jasonzli-DEV/jasonzli-DEV) | 0.11101 | Scored |
-| [jasonzli-DEV/openssf-tracker](https://github.com/jasonzli-DEV/openssf-tracker) | 0.11101 | Scored |
 | [jasonzli-DEV/slot-signups](https://github.com/jasonzli-DEV/slot-signups) | 0.04129 | Scored |
 | [jasonzli-DEV/agent-code](https://github.com/jasonzli-DEV/agent-code) | 0.03864 | Scored |
 | [jasonzli-DEV/world-explorer](https://github.com/jasonzli-DEV/world-explorer) | 0.03864 | Scored |
-| [jasonzli-DEV/Drive](https://github.com/jasonzli-DEV/Drive) | — | Collection failed |
-| [jasonzli-DEV/ghostdeps](https://github.com/jasonzli-DEV/ghostdeps) | — | Collection failed |
-| [jasonzli-DEV/jasonzli-dev.github.io](https://github.com/jasonzli-DEV/jasonzli-dev.github.io) | — | Collection failed |
-| [jasonzli-DEV/MCPlugins](https://github.com/jasonzli-DEV/MCPlugins) | — | Collection failed |
-| [jasonzli-DEV/mossBot](https://github.com/jasonzli-DEV/mossBot) | — | Collection failed |
+| [jasonzli-DEV/Drive](https://github.com/jasonzli-DEV/Drive) | — | OpenSSF contributor lookup failed |
+| [jasonzli-DEV/ghostdeps](https://github.com/jasonzli-DEV/ghostdeps) | — | OpenSSF contributor lookup failed |
+| [jasonzli-DEV/jasonzli-dev.github.io](https://github.com/jasonzli-DEV/jasonzli-dev.github.io) | — | OpenSSF contributor lookup failed |
+| [jasonzli-DEV/MCPlugins](https://github.com/jasonzli-DEV/MCPlugins) | — | OpenSSF contributor lookup failed |
+| [jasonzli-DEV/mossBot](https://github.com/jasonzli-DEV/mossBot) | — | OpenSSF contributor lookup failed |
 
 <details>
 <summary>How this tracker works</summary>
@@ -90,6 +90,7 @@ Updated: **2026-09-11 21:44:17 UTC** · **71/76** repositories scored.
 - Uses the official OpenSSF Criticality Score **v2.0.4** default scoring configuration. Google Cloud/deps.dev collection is disabled; the default score uses GitHub signals.
 - Discovers all repositories returned by GitHub’s authenticated `/user/repos` API, including private, archived, and forked repositories. Access is limited by the token and any organization SSO restrictions.
 - Private repositories are attempted too, but open-source ecosystem signals may be incomplete. This is a criticality metric, not a security rating.
+- OpenSSF v2.0.4 can fail when a bot contributor (such as `Copilot`) is queried as a regular user. These repositories show `OpenSSF contributor lookup failed` instead of an invented score.
 - Unavailable scores are shown explicitly; previous scores are never presented as fresh results. Raw results are in [scores.json](scores.json).
 - `TRACKER_GITHUB_TOKEN` is an Actions secret initialized from the existing GitHub CLI login. Replace it if that credential expires or is revoked: `gh auth token | gh secret set TRACKER_GITHUB_TOKEN`. A replacement token needs access to the repositories being tracked (`repo` and `read:org` for a classic token, plus organization SSO authorization where required).
 - README commits use the repository’s built-in `GITHUB_TOKEN`, preventing recursive workflow runs. Push runs update the pushed branch; scheduled runs update the default branch.
