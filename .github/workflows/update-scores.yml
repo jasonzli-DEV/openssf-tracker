@@ -1,0 +1,65 @@
+name: Update criticality scores
+
+on:
+  push:
+  schedule:
+    - cron: '0 0 * * *'
+      timezone: America/New_York
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: criticality-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Test tracker
+        run: python3 -m unittest discover -s tests
+
+      - name: Install official OpenSSF Criticality Score
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          mkdir -p "$RUNNER_TEMP/criticality" "$HOME/.local/bin"
+          gh release download v2.0.4 --repo ossf/criticality_score \
+            --pattern 'criticality_score_2.0.4_linux_amd64.tar.gz' \
+            --pattern 'criticality_score_2.0.4_checksums.txt' \
+            --dir "$RUNNER_TEMP/criticality"
+          cd "$RUNNER_TEMP/criticality"
+          sha256sum --check --ignore-missing criticality_score_2.0.4_checksums.txt
+          tar -xzf criticality_score_2.0.4_linux_amd64.tar.gz
+          install -m 755 criticality_score "$HOME/.local/bin/criticality_score"
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+
+      - name: Discover repositories and calculate scores
+        id: scores
+        env:
+          GH_TOKEN: ${{ secrets.TRACKER_GITHUB_TOKEN }}
+        run: python3 scripts/update_readme.py
+
+      - name: Commit updated report
+        if: ${{ always() && steps.scores.outcome != 'skipped' && !cancelled() }}
+        env:
+          TARGET_REF: ${{ github.ref }}
+        run: |
+          set -euo pipefail
+          if [[ ! -f scores.json ]]; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md scores.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'chore: update criticality scores'
+          # Rebase if another push arrived while scores were being collected.
+          git pull --rebase origin "$TARGET_REF"
+          git push origin "HEAD:$TARGET_REF"
