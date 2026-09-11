@@ -1,0 +1,462 @@
+{
+  "updated_at": "2026-09-11 21:44:17 UTC",
+  "criticality_score_version": "v2.0.4",
+  "repositories": [
+    {
+      "repository": "ClassSMP/classsmp-core",
+      "url": "https://github.com/ClassSMP/classsmp-core",
+      "score": 0.13831,
+      "status": "Scored"
+    },
+    {
+      "repository": "ClassSMP/Essentials",
+      "url": "https://github.com/ClassSMP/Essentials",
+      "score": 0.3775,
+      "status": "Scored"
+    },
+    {
+      "repository": "EnderBit-Hosting/Enderactyl",
+      "url": "https://github.com/EnderBit-Hosting/Enderactyl",
+      "score": 0.17037,
+      "status": "Scored"
+    },
+    {
+      "repository": "EnderBit-Hosting/enderbit",
+      "url": "https://github.com/EnderBit-Hosting/enderbit",
+      "score": 0.16331,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/2Bored2Tolerate",
+      "url": "https://github.com/jasonzli-DEV/2Bored2Tolerate",
+      "score": 0.29972,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/agent-code",
+      "url": "https://github.com/jasonzli-DEV/agent-code",
+      "score": 0.03864,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/Aura",
+      "url": "https://github.com/jasonzli-DEV/Aura",
+      "score": 0.18979,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/Autosell",
+      "url": "https://github.com/jasonzli-DEV/Autosell",
+      "score": 0.14501,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/Axura-s-Allience-Bot-Issue-Tracker",
+      "url": "https://github.com/jasonzli-DEV/Axura-s-Allience-Bot-Issue-Tracker",
+      "score": 0.14231,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/capedmc.org",
+      "url": "https://github.com/jasonzli-DEV/capedmc.org",
+      "score": 0.13415,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/Co-Bot",
+      "url": "https://github.com/jasonzli-DEV/Co-Bot",
+      "score": 0.14943,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/codex-roster",
+      "url": "https://github.com/jasonzli-DEV/codex-roster",
+      "score": 0.11128,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/cybrancee-bot-hosting-js",
+      "url": "https://github.com/jasonzli-DEV/cybrancee-bot-hosting-js",
+      "score": 0.22627,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/D-Drive",
+      "url": "https://github.com/jasonzli-DEV/D-Drive",
+      "score": 0.22664,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/Drive",
+      "url": "https://github.com/jasonzli-DEV/Drive",
+      "score": null,
+      "status": "Collection failed"
+    },
+    {
+      "repository": "jasonzli-DEV/Drive-Shift",
+      "url": "https://github.com/jasonzli-DEV/Drive-Shift",
+      "score": 0.16089,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/Fabric-Tutorial-1.21.X",
+      "url": "https://github.com/jasonzli-DEV/Fabric-Tutorial-1.21.X",
+      "score": 0.14865,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/fortniteLobbyBot",
+      "url": "https://github.com/jasonzli-DEV/fortniteLobbyBot",
+      "score": 0.17388,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/FREE6",
+      "url": "https://github.com/jasonzli-DEV/FREE6",
+      "score": 0.1503,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/gameCore",
+      "url": "https://github.com/jasonzli-DEV/gameCore",
+      "score": 0.14576,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/GD3-Bot",
+      "url": "https://github.com/jasonzli-DEV/GD3-Bot",
+      "score": 0.17891,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/ghostdeps",
+      "url": "https://github.com/jasonzli-DEV/ghostdeps",
+      "score": null,
+      "status": "Collection failed"
+    },
+    {
+      "repository": "jasonzli-DEV/Ghostdeps-test",
+      "url": "https://github.com/jasonzli-DEV/Ghostdeps-test",
+      "score": 0.31339,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/jasonzli-DEV",
+      "url": "https://github.com/jasonzli-DEV/jasonzli-DEV",
+      "score": 0.11101,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/jasonzli-dev.github.io",
+      "url": "https://github.com/jasonzli-DEV/jasonzli-dev.github.io",
+      "score": null,
+      "status": "Collection failed"
+    },
+    {
+      "repository": "jasonzli-DEV/Jesters-Slave",
+      "url": "https://github.com/jasonzli-DEV/Jesters-Slave",
+      "score": 0.15295,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/mc-status-widget-for-minecraft",
+      "url": "https://github.com/jasonzli-DEV/mc-status-widget-for-minecraft",
+      "score": 0.22561,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/MCPlugins",
+      "url": "https://github.com/jasonzli-DEV/MCPlugins",
+      "score": null,
+      "status": "Collection failed"
+    },
+    {
+      "repository": "jasonzli-DEV/messageMe",
+      "url": "https://github.com/jasonzli-DEV/messageMe",
+      "score": 0.16295,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/mindbreak",
+      "url": "https://github.com/jasonzli-DEV/mindbreak",
+      "score": 0.15445,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/MineBot",
+      "url": "https://github.com/jasonzli-DEV/MineBot",
+      "score": 0.18778,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/minecraft-data",
+      "url": "https://github.com/jasonzli-DEV/minecraft-data",
+      "score": 0.43612,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/mineflayer",
+      "url": "https://github.com/jasonzli-DEV/mineflayer",
+      "score": 0.42245,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/MinePanel",
+      "url": "https://github.com/jasonzli-DEV/MinePanel",
+      "score": 0.18112,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/mossBot",
+      "url": "https://github.com/jasonzli-DEV/mossBot",
+      "score": null,
+      "status": "Collection failed"
+    },
+    {
+      "repository": "jasonzli-DEV/openssf-tracker",
+      "url": "https://github.com/jasonzli-DEV/openssf-tracker",
+      "score": 0.11101,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/PacMan",
+      "url": "https://github.com/jasonzli-DEV/PacMan",
+      "score": 0.13277,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/panel",
+      "url": "https://github.com/jasonzli-DEV/panel",
+      "score": 0.36979,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/PDS-Bot",
+      "url": "https://github.com/jasonzli-DEV/PDS-Bot",
+      "score": 0.17712,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/Pterodactyl-Backup",
+      "url": "https://github.com/jasonzli-DEV/Pterodactyl-Backup",
+      "score": 0.15771,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/RBR-Bonus-Claimer",
+      "url": "https://github.com/jasonzli-DEV/RBR-Bonus-Claimer",
+      "score": 0.20509,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/Screentime-Remover",
+      "url": "https://github.com/jasonzli-DEV/Screentime-Remover",
+      "score": 0.13831,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/Sellbot",
+      "url": "https://github.com/jasonzli-DEV/Sellbot",
+      "score": 0.138,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/ServerIcon",
+      "url": "https://github.com/jasonzli-DEV/ServerIcon",
+      "score": 0.13303,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/ServerImporter",
+      "url": "https://github.com/jasonzli-DEV/ServerImporter",
+      "score": 0.13277,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/Shard",
+      "url": "https://github.com/jasonzli-DEV/Shard",
+      "score": 0.1465,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/shop-prices",
+      "url": "https://github.com/jasonzli-DEV/shop-prices",
+      "score": 0.15547,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/SimpliSure",
+      "url": "https://github.com/jasonzli-DEV/SimpliSure",
+      "score": 0.1123,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/slot-signups",
+      "url": "https://github.com/jasonzli-DEV/slot-signups",
+      "score": 0.04129,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/SOL-Trading-Bot",
+      "url": "https://github.com/jasonzli-DEV/SOL-Trading-Bot",
+      "score": 0.14425,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/Spawner-Management",
+      "url": "https://github.com/jasonzli-DEV/Spawner-Management",
+      "score": 0.1404,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/thecape.shop",
+      "url": "https://github.com/jasonzli-DEV/thecape.shop",
+      "score": 0.15519,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/VeriHook",
+      "url": "https://github.com/jasonzli-DEV/VeriHook",
+      "score": 0.13502,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/VersionChanger",
+      "url": "https://github.com/jasonzli-DEV/VersionChanger",
+      "score": 0.14833,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/Wallet-Checker",
+      "url": "https://github.com/jasonzli-DEV/Wallet-Checker",
+      "score": 0.19264,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/world-explorer",
+      "url": "https://github.com/jasonzli-DEV/world-explorer",
+      "score": 0.03864,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/YT-Watchtime",
+      "url": "https://github.com/jasonzli-DEV/YT-Watchtime",
+      "score": 0.19372,
+      "status": "Scored"
+    },
+    {
+      "repository": "reviactyl/.github",
+      "url": "https://github.com/reviactyl/.github",
+      "score": 0.19022,
+      "status": "Scored"
+    },
+    {
+      "repository": "reviactyl/agent",
+      "url": "https://github.com/reviactyl/agent",
+      "score": 0.43673,
+      "status": "Scored"
+    },
+    {
+      "repository": "reviactyl/blueprint",
+      "url": "https://github.com/reviactyl/blueprint",
+      "score": 0.36702,
+      "status": "Scored"
+    },
+    {
+      "repository": "reviactyl/cdn",
+      "url": "https://github.com/reviactyl/cdn",
+      "score": 0.18018,
+      "status": "Scored"
+    },
+    {
+      "repository": "reviactyl/desktop",
+      "url": "https://github.com/reviactyl/desktop",
+      "score": 0.1745,
+      "status": "Scored"
+    },
+    {
+      "repository": "reviactyl/docs",
+      "url": "https://github.com/reviactyl/docs",
+      "score": 0.19844,
+      "status": "Scored"
+    },
+    {
+      "repository": "reviactyl/eggs",
+      "url": "https://github.com/reviactyl/eggs",
+      "score": 0.18205,
+      "status": "Scored"
+    },
+    {
+      "repository": "reviactyl/headless",
+      "url": "https://github.com/reviactyl/headless",
+      "score": 0.25798,
+      "status": "Scored"
+    },
+    {
+      "repository": "reviactyl/images",
+      "url": "https://github.com/reviactyl/images",
+      "score": 0.34446,
+      "status": "Scored"
+    },
+    {
+      "repository": "reviactyl/installer",
+      "url": "https://github.com/reviactyl/installer",
+      "score": 0.23603,
+      "status": "Scored"
+    },
+    {
+      "repository": "reviactyl/panel",
+      "url": "https://github.com/reviactyl/panel",
+      "score": 0.48177,
+      "status": "Scored"
+    },
+    {
+      "repository": "reviactyl/presets",
+      "url": "https://github.com/reviactyl/presets",
+      "score": 0.16984,
+      "status": "Scored"
+    },
+    {
+      "repository": "reviactyl/revicons",
+      "url": "https://github.com/reviactyl/revicons",
+      "score": 0.18549,
+      "status": "Scored"
+    },
+    {
+      "repository": "reviactyl/rextstore-prototype",
+      "url": "https://github.com/reviactyl/rextstore-prototype",
+      "score": 0.18577,
+      "status": "Scored"
+    },
+    {
+      "repository": "reviactyl/sponsors-only",
+      "url": "https://github.com/reviactyl/sponsors-only",
+      "score": 0.186,
+      "status": "Scored"
+    },
+    {
+      "repository": "reviactyl/sso-panel",
+      "url": "https://github.com/reviactyl/sso-panel",
+      "score": 0.26995,
+      "status": "Scored"
+    },
+    {
+      "repository": "reviactyl/web",
+      "url": "https://github.com/reviactyl/web",
+      "score": 0.21622,
+      "status": "Scored"
+    },
+    {
+      "repository": "reviactyl/whmcs",
+      "url": "https://github.com/reviactyl/whmcs",
+      "score": 0.3151,
+      "status": "Scored"
+    },
+    {
+      "repository": "xxtfrost/donutbot",
+      "url": "https://github.com/xxtfrost/donutbot",
+      "score": 0.14894,
+      "status": "Scored"
+    }
+  ]
+}
