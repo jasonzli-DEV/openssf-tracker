@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11 21:48:46 UTC",
+  "updated_at": "2026-09-12 08:22:52 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -215,19 +215,19 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.11154,
+      "score": 0.12087,
       "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/PacMan",
       "url": "https://github.com/jasonzli-DEV/PacMan",
-      "score": 0.13277,
+      "score": 0.13831,
       "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/panel",
       "url": "https://github.com/jasonzli-DEV/panel",
-      "score": 0.36979,
+      "score": 0.36978,
       "status": "Scored"
     },
     {
@@ -263,13 +263,13 @@
     {
       "repository": "jasonzli-DEV/ServerIcon",
       "url": "https://github.com/jasonzli-DEV/ServerIcon",
-      "score": 0.13303,
+      "score": 0.13857,
       "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/ServerImporter",
       "url": "https://github.com/jasonzli-DEV/ServerImporter",
-      "score": 0.13277,
+      "score": 0.13831,
       "status": "Scored"
     },
     {
@@ -389,7 +389,7 @@
     {
       "repository": "reviactyl/headless",
       "url": "https://github.com/reviactyl/headless",
-      "score": 0.25798,
+      "score": 0.25789,
       "status": "Scored"
     },
     {
@@ -407,7 +407,7 @@
     {
       "repository": "reviactyl/panel",
       "url": "https://github.com/reviactyl/panel",
-      "score": 0.48177,
+      "score": 0.48176,
       "status": "Scored"
     },
     {
