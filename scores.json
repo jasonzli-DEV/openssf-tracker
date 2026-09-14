@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12 08:22:52 UTC",
+  "updated_at": "2026-09-14 09:34:35 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -29,7 +29,7 @@
     {
       "repository": "jasonzli-DEV/2Bored2Tolerate",
       "url": "https://github.com/jasonzli-DEV/2Bored2Tolerate",
-      "score": 0.29972,
+      "score": 0.29955,
       "status": "Scored"
     },
     {
@@ -197,7 +197,7 @@
     {
       "repository": "jasonzli-DEV/mineflayer",
       "url": "https://github.com/jasonzli-DEV/mineflayer",
-      "score": 0.42245,
+      "score": 0.42227,
       "status": "Scored"
     },
     {
@@ -215,7 +215,7 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.12087,
+      "score": 0.12112,
       "status": "Scored"
     },
     {
@@ -227,13 +227,13 @@
     {
       "repository": "jasonzli-DEV/panel",
       "url": "https://github.com/jasonzli-DEV/panel",
-      "score": 0.36978,
+      "score": 0.36971,
       "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/PDS-Bot",
       "url": "https://github.com/jasonzli-DEV/PDS-Bot",
-      "score": 0.17712,
+      "score": 0.17395,
       "status": "Scored"
     },
     {
@@ -281,7 +281,7 @@
     {
       "repository": "jasonzli-DEV/shop-prices",
       "url": "https://github.com/jasonzli-DEV/shop-prices",
-      "score": 0.15547,
+      "score": 0.15719,
       "status": "Scored"
     },
     {
@@ -311,7 +311,7 @@
     {
       "repository": "jasonzli-DEV/thecape.shop",
       "url": "https://github.com/jasonzli-DEV/thecape.shop",
-      "score": 0.15519,
+      "score": 0.15503,
       "status": "Scored"
     },
     {
@@ -329,7 +329,7 @@
     {
       "repository": "jasonzli-DEV/Wallet-Checker",
       "url": "https://github.com/jasonzli-DEV/Wallet-Checker",
-      "score": 0.19264,
+      "score": 0.18358,
       "status": "Scored"
     },
     {
@@ -389,7 +389,7 @@
     {
       "repository": "reviactyl/headless",
       "url": "https://github.com/reviactyl/headless",
-      "score": 0.25789,
+      "score": 0.25748,
       "status": "Scored"
     },
     {
@@ -407,7 +407,7 @@
     {
       "repository": "reviactyl/panel",
       "url": "https://github.com/reviactyl/panel",
-      "score": 0.48176,
+      "score": 0.48172,
       "status": "Scored"
     },
     {
@@ -419,7 +419,7 @@
     {
       "repository": "reviactyl/revicons",
       "url": "https://github.com/reviactyl/revicons",
-      "score": 0.18549,
+      "score": 0.18722,
       "status": "Scored"
     },
     {
@@ -443,7 +443,7 @@
     {
       "repository": "reviactyl/web",
       "url": "https://github.com/reviactyl/web",
-      "score": 0.21622,
+      "score": 0.2163,
       "status": "Scored"
     },
     {
