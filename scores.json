@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14 09:34:35 UTC",
+  "updated_at": "2026-09-15 09:12:51 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -137,7 +137,7 @@
     {
       "repository": "jasonzli-DEV/Ghostdeps-test",
       "url": "https://github.com/jasonzli-DEV/Ghostdeps-test",
-      "score": 0.31339,
+      "score": 0.31322,
       "status": "Scored"
     },
     {
@@ -161,7 +161,7 @@
     {
       "repository": "jasonzli-DEV/mc-status-widget-for-minecraft",
       "url": "https://github.com/jasonzli-DEV/mc-status-widget-for-minecraft",
-      "score": 0.22561,
+      "score": 0.2258,
       "status": "Scored"
     },
     {
@@ -191,7 +191,7 @@
     {
       "repository": "jasonzli-DEV/minecraft-data",
       "url": "https://github.com/jasonzli-DEV/minecraft-data",
-      "score": 0.43612,
+      "score": 0.43592,
       "status": "Scored"
     },
     {
@@ -215,7 +215,7 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.12112,
+      "score": 0.12137,
       "status": "Scored"
     },
     {
@@ -227,7 +227,7 @@
     {
       "repository": "jasonzli-DEV/panel",
       "url": "https://github.com/jasonzli-DEV/panel",
-      "score": 0.36971,
+      "score": 0.36969,
       "status": "Scored"
     },
     {
@@ -299,7 +299,7 @@
     {
       "repository": "jasonzli-DEV/SOL-Trading-Bot",
       "url": "https://github.com/jasonzli-DEV/SOL-Trading-Bot",
-      "score": 0.14425,
+      "score": 0.14868,
       "status": "Scored"
     },
     {
@@ -359,7 +359,7 @@
     {
       "repository": "reviactyl/blueprint",
       "url": "https://github.com/reviactyl/blueprint",
-      "score": 0.36702,
+      "score": 0.36685,
       "status": "Scored"
     },
     {
@@ -389,7 +389,7 @@
     {
       "repository": "reviactyl/headless",
       "url": "https://github.com/reviactyl/headless",
-      "score": 0.25748,
+      "score": 0.25739,
       "status": "Scored"
     },
     {
@@ -407,7 +407,7 @@
     {
       "repository": "reviactyl/panel",
       "url": "https://github.com/reviactyl/panel",
-      "score": 0.48172,
+      "score": 0.4817,
       "status": "Scored"
     },
     {
@@ -419,7 +419,7 @@
     {
       "repository": "reviactyl/revicons",
       "url": "https://github.com/reviactyl/revicons",
-      "score": 0.18722,
+      "score": 0.18704,
       "status": "Scored"
     },
     {

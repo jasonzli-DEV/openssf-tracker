@@ -2,27 +2,27 @@
 
 Daily [OpenSSF Criticality Scores](https://github.com/ossf/criticality_score) for all repositories accessible to my GitHub account, including owned, collaborator, and organization repositories. Scores range from **0 to 1** and estimate project importance to the open-source ecosystem.
 
-Updated: **2026-09-14 09:34:35 UTC** · **71/76** repositories scored.
+Updated: **2026-09-15 09:12:51 UTC** · **71/76** repositories scored.
 
 | Repository | Criticality score | Status |
 | --- | ---: | --- |
-| [reviactyl/panel](https://github.com/reviactyl/panel) | 0.48172 | Scored |
+| [reviactyl/panel](https://github.com/reviactyl/panel) | 0.48170 | Scored |
 | [reviactyl/agent](https://github.com/reviactyl/agent) | 0.43673 | Scored |
-| [jasonzli-DEV/minecraft-data](https://github.com/jasonzli-DEV/minecraft-data) | 0.43612 | Scored |
+| [jasonzli-DEV/minecraft-data](https://github.com/jasonzli-DEV/minecraft-data) | 0.43592 | Scored |
 | [jasonzli-DEV/mineflayer](https://github.com/jasonzli-DEV/mineflayer) | 0.42227 | Scored |
 | [ClassSMP/Essentials](https://github.com/ClassSMP/Essentials) | 0.37750 | Scored |
-| [jasonzli-DEV/panel](https://github.com/jasonzli-DEV/panel) | 0.36971 | Scored |
-| [reviactyl/blueprint](https://github.com/reviactyl/blueprint) | 0.36702 | Scored |
+| [jasonzli-DEV/panel](https://github.com/jasonzli-DEV/panel) | 0.36969 | Scored |
+| [reviactyl/blueprint](https://github.com/reviactyl/blueprint) | 0.36685 | Scored |
 | [reviactyl/images](https://github.com/reviactyl/images) | 0.34446 | Scored |
 | [reviactyl/whmcs](https://github.com/reviactyl/whmcs) | 0.31510 | Scored |
-| [jasonzli-DEV/Ghostdeps-test](https://github.com/jasonzli-DEV/Ghostdeps-test) | 0.31339 | Scored |
+| [jasonzli-DEV/Ghostdeps-test](https://github.com/jasonzli-DEV/Ghostdeps-test) | 0.31322 | Scored |
 | [jasonzli-DEV/2Bored2Tolerate](https://github.com/jasonzli-DEV/2Bored2Tolerate) | 0.29955 | Scored |
 | [reviactyl/sso-panel](https://github.com/reviactyl/sso-panel) | 0.26995 | Scored |
-| [reviactyl/headless](https://github.com/reviactyl/headless) | 0.25748 | Scored |
+| [reviactyl/headless](https://github.com/reviactyl/headless) | 0.25739 | Scored |
 | [reviactyl/installer](https://github.com/reviactyl/installer) | 0.23603 | Scored |
 | [jasonzli-DEV/D-Drive](https://github.com/jasonzli-DEV/D-Drive) | 0.22664 | Scored |
 | [jasonzli-DEV/cybrancee-bot-hosting-js](https://github.com/jasonzli-DEV/cybrancee-bot-hosting-js) | 0.22627 | Scored |
-| [jasonzli-DEV/mc-status-widget-for-minecraft](https://github.com/jasonzli-DEV/mc-status-widget-for-minecraft) | 0.22561 | Scored |
+| [jasonzli-DEV/mc-status-widget-for-minecraft](https://github.com/jasonzli-DEV/mc-status-widget-for-minecraft) | 0.22580 | Scored |
 | [reviactyl/web](https://github.com/reviactyl/web) | 0.21630 | Scored |
 | [jasonzli-DEV/RBR-Bonus-Claimer](https://github.com/jasonzli-DEV/RBR-Bonus-Claimer) | 0.20509 | Scored |
 | [reviactyl/docs](https://github.com/reviactyl/docs) | 0.19844 | Scored |
@@ -30,7 +30,7 @@ Updated: **2026-09-14 09:34:35 UTC** · **71/76** repositories scored.
 | [reviactyl/.github](https://github.com/reviactyl/.github) | 0.19022 | Scored |
 | [jasonzli-DEV/Aura](https://github.com/jasonzli-DEV/Aura) | 0.18979 | Scored |
 | [jasonzli-DEV/MineBot](https://github.com/jasonzli-DEV/MineBot) | 0.18778 | Scored |
-| [reviactyl/revicons](https://github.com/reviactyl/revicons) | 0.18722 | Scored |
+| [reviactyl/revicons](https://github.com/reviactyl/revicons) | 0.18704 | Scored |
 | [reviactyl/sponsors-only](https://github.com/reviactyl/sponsors-only) | 0.18600 | Scored |
 | [reviactyl/rextstore-prototype](https://github.com/reviactyl/rextstore-prototype) | 0.18577 | Scored |
 | [jasonzli-DEV/Wallet-Checker](https://github.com/jasonzli-DEV/Wallet-Checker) | 0.18358 | Scored |
@@ -54,12 +54,12 @@ Updated: **2026-09-14 09:34:35 UTC** · **71/76** repositories scored.
 | [jasonzli-DEV/FREE6](https://github.com/jasonzli-DEV/FREE6) | 0.15030 | Scored |
 | [jasonzli-DEV/Co-Bot](https://github.com/jasonzli-DEV/Co-Bot) | 0.14943 | Scored |
 | [xxtfrost/donutbot](https://github.com/xxtfrost/donutbot) | 0.14894 | Scored |
+| [jasonzli-DEV/SOL-Trading-Bot](https://github.com/jasonzli-DEV/SOL-Trading-Bot) | 0.14868 | Scored |
 | [jasonzli-DEV/Fabric-Tutorial-1.21.X](https://github.com/jasonzli-DEV/Fabric-Tutorial-1.21.X) | 0.14865 | Scored |
 | [jasonzli-DEV/VersionChanger](https://github.com/jasonzli-DEV/VersionChanger) | 0.14833 | Scored |
 | [jasonzli-DEV/Shard](https://github.com/jasonzli-DEV/Shard) | 0.14650 | Scored |
 | [jasonzli-DEV/gameCore](https://github.com/jasonzli-DEV/gameCore) | 0.14576 | Scored |
 | [jasonzli-DEV/Autosell](https://github.com/jasonzli-DEV/Autosell) | 0.14501 | Scored |
-| [jasonzli-DEV/SOL-Trading-Bot](https://github.com/jasonzli-DEV/SOL-Trading-Bot) | 0.14425 | Scored |
 | [jasonzli-DEV/Axura-s-Allience-Bot-Issue-Tracker](https://github.com/jasonzli-DEV/Axura-s-Allience-Bot-Issue-Tracker) | 0.14231 | Scored |
 | [jasonzli-DEV/Spawner-Management](https://github.com/jasonzli-DEV/Spawner-Management) | 0.14040 | Scored |
 | [jasonzli-DEV/ServerIcon](https://github.com/jasonzli-DEV/ServerIcon) | 0.13857 | Scored |
@@ -70,7 +70,7 @@ Updated: **2026-09-14 09:34:35 UTC** · **71/76** repositories scored.
 | [jasonzli-DEV/Sellbot](https://github.com/jasonzli-DEV/Sellbot) | 0.13800 | Scored |
 | [jasonzli-DEV/VeriHook](https://github.com/jasonzli-DEV/VeriHook) | 0.13502 | Scored |
 | [jasonzli-DEV/capedmc.org](https://github.com/jasonzli-DEV/capedmc.org) | 0.13415 | Scored |
-| [jasonzli-DEV/openssf-tracker](https://github.com/jasonzli-DEV/openssf-tracker) | 0.12112 | Scored |
+| [jasonzli-DEV/openssf-tracker](https://github.com/jasonzli-DEV/openssf-tracker) | 0.12137 | Scored |
 | [jasonzli-DEV/SimpliSure](https://github.com/jasonzli-DEV/SimpliSure) | 0.11230 | Scored |
 | [jasonzli-DEV/codex-roster](https://github.com/jasonzli-DEV/codex-roster) | 0.11128 | Scored |
 | [jasonzli-DEV/jasonzli-DEV](https://github.com/jasonzli-DEV/jasonzli-DEV) | 0.11101 | Scored |
