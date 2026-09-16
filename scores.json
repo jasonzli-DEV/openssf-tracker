@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15 09:12:51 UTC",
+  "updated_at": "2026-09-16 09:05:15 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -215,7 +215,7 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.12137,
+      "score": 0.12149,
       "status": "Scored"
     },
     {
@@ -227,7 +227,7 @@
     {
       "repository": "jasonzli-DEV/panel",
       "url": "https://github.com/jasonzli-DEV/panel",
-      "score": 0.36969,
+      "score": 0.36967,
       "status": "Scored"
     },
     {
@@ -389,7 +389,7 @@
     {
       "repository": "reviactyl/headless",
       "url": "https://github.com/reviactyl/headless",
-      "score": 0.25739,
+      "score": 0.25725,
       "status": "Scored"
     },
     {
@@ -407,7 +407,7 @@
     {
       "repository": "reviactyl/panel",
       "url": "https://github.com/reviactyl/panel",
-      "score": 0.4817,
+      "score": 0.48171,
       "status": "Scored"
     },
     {
@@ -449,7 +449,7 @@
     {
       "repository": "reviactyl/whmcs",
       "url": "https://github.com/reviactyl/whmcs",
-      "score": 0.3151,
+      "score": 0.31493,
       "status": "Scored"
     },
     {
