@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16 09:05:15 UTC",
+  "updated_at": "2026-09-17 09:13:04 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -125,7 +125,7 @@
     {
       "repository": "jasonzli-DEV/GD3-Bot",
       "url": "https://github.com/jasonzli-DEV/GD3-Bot",
-      "score": 0.17891,
+      "score": 0.18253,
       "status": "Scored"
     },
     {
@@ -155,7 +155,7 @@
     {
       "repository": "jasonzli-DEV/Jesters-Slave",
       "url": "https://github.com/jasonzli-DEV/Jesters-Slave",
-      "score": 0.15295,
+      "score": 0.15278,
       "status": "Scored"
     },
     {
@@ -191,7 +191,7 @@
     {
       "repository": "jasonzli-DEV/minecraft-data",
       "url": "https://github.com/jasonzli-DEV/minecraft-data",
-      "score": 0.43592,
+      "score": 0.43582,
       "status": "Scored"
     },
     {
@@ -215,7 +215,7 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.12149,
+      "score": 0.12173,
       "status": "Scored"
     },
     {
@@ -227,13 +227,13 @@
     {
       "repository": "jasonzli-DEV/panel",
       "url": "https://github.com/jasonzli-DEV/panel",
-      "score": 0.36967,
+      "score": 0.36966,
       "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/PDS-Bot",
       "url": "https://github.com/jasonzli-DEV/PDS-Bot",
-      "score": 0.17395,
+      "score": 0.17532,
       "status": "Scored"
     },
     {
@@ -317,7 +317,7 @@
     {
       "repository": "jasonzli-DEV/VeriHook",
       "url": "https://github.com/jasonzli-DEV/VeriHook",
-      "score": 0.13502,
+      "score": 0.13485,
       "status": "Scored"
     },
     {
@@ -347,7 +347,7 @@
     {
       "repository": "reviactyl/.github",
       "url": "https://github.com/reviactyl/.github",
-      "score": 0.19022,
+      "score": 0.19005,
       "status": "Scored"
     },
     {
@@ -389,13 +389,13 @@
     {
       "repository": "reviactyl/headless",
       "url": "https://github.com/reviactyl/headless",
-      "score": 0.25725,
+      "score": 0.25721,
       "status": "Scored"
     },
     {
       "repository": "reviactyl/images",
       "url": "https://github.com/reviactyl/images",
-      "score": 0.34446,
+      "score": 0.34472,
       "status": "Scored"
     },
     {
@@ -407,7 +407,7 @@
     {
       "repository": "reviactyl/panel",
       "url": "https://github.com/reviactyl/panel",
-      "score": 0.48171,
+      "score": 0.48173,
       "status": "Scored"
     },
     {
