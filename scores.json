@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18 08:46:03 UTC",
+  "updated_at": "2026-09-19 08:32:15 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -47,7 +47,7 @@
     {
       "repository": "jasonzli-DEV/Autosell",
       "url": "https://github.com/jasonzli-DEV/Autosell",
-      "score": 0.14501,
+      "score": 0.14484,
       "status": "Scored"
     },
     {
@@ -143,7 +143,7 @@
     {
       "repository": "jasonzli-DEV/jasonzli-DEV",
       "url": "https://github.com/jasonzli-DEV/jasonzli-DEV",
-      "score": 0.11101,
+      "score": 0.12461,
       "status": "Scored"
     },
     {
@@ -215,7 +215,7 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.12197,
+      "score": 0.1222,
       "status": "Scored"
     },
     {
@@ -227,7 +227,7 @@
     {
       "repository": "jasonzli-DEV/panel",
       "url": "https://github.com/jasonzli-DEV/panel",
-      "score": 0.36965,
+      "score": 0.36964,
       "status": "Scored"
     },
     {
@@ -299,7 +299,7 @@
     {
       "repository": "jasonzli-DEV/SOL-Trading-Bot",
       "url": "https://github.com/jasonzli-DEV/SOL-Trading-Bot",
-      "score": 0.14868,
+      "score": 0.14851,
       "status": "Scored"
     },
     {
@@ -371,7 +371,7 @@
     {
       "repository": "reviactyl/desktop",
       "url": "https://github.com/reviactyl/desktop",
-      "score": 0.1745,
+      "score": 0.17433,
       "status": "Scored"
     },
     {
@@ -389,7 +389,7 @@
     {
       "repository": "reviactyl/headless",
       "url": "https://github.com/reviactyl/headless",
-      "score": 0.25714,
+      "score": 0.25709,
       "status": "Scored"
     },
     {
