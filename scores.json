@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19 08:32:15 UTC",
+  "updated_at": "2026-09-20 09:04:35 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -11,7 +11,7 @@
     {
       "repository": "ClassSMP/Essentials",
       "url": "https://github.com/ClassSMP/Essentials",
-      "score": 0.3775,
+      "score": 0.3774,
       "status": "Scored"
     },
     {
@@ -23,13 +23,13 @@
     {
       "repository": "EnderBit-Hosting/enderbit",
       "url": "https://github.com/EnderBit-Hosting/enderbit",
-      "score": 0.16331,
+      "score": 0.16402,
       "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/2Bored2Tolerate",
       "url": "https://github.com/jasonzli-DEV/2Bored2Tolerate",
-      "score": 0.29955,
+      "score": 0.29977,
       "status": "Scored"
     },
     {
@@ -191,7 +191,7 @@
     {
       "repository": "jasonzli-DEV/minecraft-data",
       "url": "https://github.com/jasonzli-DEV/minecraft-data",
-      "score": 0.43582,
+      "score": 0.43572,
       "status": "Scored"
     },
     {
@@ -215,7 +215,7 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.1222,
+      "score": 0.12243,
       "status": "Scored"
     },
     {
@@ -227,7 +227,7 @@
     {
       "repository": "jasonzli-DEV/panel",
       "url": "https://github.com/jasonzli-DEV/panel",
-      "score": 0.36964,
+      "score": 0.36963,
       "status": "Scored"
     },
     {
@@ -275,7 +275,7 @@
     {
       "repository": "jasonzli-DEV/Shard",
       "url": "https://github.com/jasonzli-DEV/Shard",
-      "score": 0.1465,
+      "score": 0.15221,
       "status": "Scored"
     },
     {
@@ -371,7 +371,7 @@
     {
       "repository": "reviactyl/desktop",
       "url": "https://github.com/reviactyl/desktop",
-      "score": 0.17433,
+      "score": 0.17739,
       "status": "Scored"
     },
     {
@@ -389,7 +389,7 @@
     {
       "repository": "reviactyl/headless",
       "url": "https://github.com/reviactyl/headless",
-      "score": 0.25709,
+      "score": 0.257,
       "status": "Scored"
     },
     {
@@ -407,7 +407,7 @@
     {
       "repository": "reviactyl/panel",
       "url": "https://github.com/reviactyl/panel",
-      "score": 0.48182,
+      "score": 0.4818,
       "status": "Scored"
     },
     {
