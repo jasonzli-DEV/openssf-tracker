@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20 09:04:35 UTC",
+  "updated_at": "2026-09-21 09:36:43 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -17,7 +17,7 @@
     {
       "repository": "EnderBit-Hosting/Enderactyl",
       "url": "https://github.com/EnderBit-Hosting/Enderactyl",
-      "score": 0.17037,
+      "score": 0.17112,
       "status": "Scored"
     },
     {
@@ -215,7 +215,7 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.12243,
+      "score": 0.12266,
       "status": "Scored"
     },
     {
@@ -227,7 +227,7 @@
     {
       "repository": "jasonzli-DEV/panel",
       "url": "https://github.com/jasonzli-DEV/panel",
-      "score": 0.36963,
+      "score": 0.36962,
       "status": "Scored"
     },
     {
@@ -252,6 +252,12 @@
       "repository": "jasonzli-DEV/Screentime-Remover",
       "url": "https://github.com/jasonzli-DEV/Screentime-Remover",
       "score": 0.13831,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/Scribe",
+      "url": "https://github.com/jasonzli-DEV/Scribe",
+      "score": 0.11205,
       "status": "Scored"
     },
     {
@@ -377,7 +383,7 @@
     {
       "repository": "reviactyl/docs",
       "url": "https://github.com/reviactyl/docs",
-      "score": 0.19844,
+      "score": 0.19825,
       "status": "Scored"
     },
     {
@@ -389,7 +395,7 @@
     {
       "repository": "reviactyl/headless",
       "url": "https://github.com/reviactyl/headless",
-      "score": 0.257,
+      "score": 0.25692,
       "status": "Scored"
     },
     {
@@ -407,7 +413,7 @@
     {
       "repository": "reviactyl/panel",
       "url": "https://github.com/reviactyl/panel",
-      "score": 0.4818,
+      "score": 0.48179,
       "status": "Scored"
     },
     {
