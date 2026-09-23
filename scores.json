@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22 09:01:53 UTC",
+  "updated_at": "2026-09-23 09:04:59 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -191,7 +191,7 @@
     {
       "repository": "jasonzli-DEV/minecraft-data",
       "url": "https://github.com/jasonzli-DEV/minecraft-data",
-      "score": 0.43555,
+      "score": 0.43545,
       "status": "Scored"
     },
     {
@@ -215,7 +215,7 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.12288,
+      "score": 0.1231,
       "status": "Scored"
     },
     {
@@ -227,7 +227,7 @@
     {
       "repository": "jasonzli-DEV/panel",
       "url": "https://github.com/jasonzli-DEV/panel",
-      "score": 0.36958,
+      "score": 0.36957,
       "status": "Scored"
     },
     {
@@ -263,7 +263,7 @@
     {
       "repository": "jasonzli-DEV/Scribe",
       "url": "https://github.com/jasonzli-DEV/Scribe",
-      "score": 0.1129,
+      "score": 0.11488,
       "status": "Scored"
     },
     {
@@ -365,13 +365,13 @@
     {
       "repository": "reviactyl/agent",
       "url": "https://github.com/reviactyl/agent",
-      "score": 0.43857,
+      "score": 0.44027,
       "status": "Scored"
     },
     {
       "repository": "reviactyl/blueprint",
       "url": "https://github.com/reviactyl/blueprint",
-      "score": 0.36685,
+      "score": 0.36668,
       "status": "Scored"
     },
     {
@@ -389,19 +389,19 @@
     {
       "repository": "reviactyl/docs",
       "url": "https://github.com/reviactyl/docs",
-      "score": 0.19825,
+      "score": 0.19773,
       "status": "Scored"
     },
     {
       "repository": "reviactyl/eggs",
       "url": "https://github.com/reviactyl/eggs",
-      "score": 0.18205,
+      "score": 0.18648,
       "status": "Scored"
     },
     {
       "repository": "reviactyl/headless",
       "url": "https://github.com/reviactyl/headless",
-      "score": 0.25651,
+      "score": 0.25644,
       "status": "Scored"
     },
     {
