@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23 09:04:59 UTC",
+  "updated_at": "2026-09-24 09:01:28 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -113,7 +113,7 @@
     {
       "repository": "jasonzli-DEV/FREE6",
       "url": "https://github.com/jasonzli-DEV/FREE6",
-      "score": 0.1503,
+      "score": 0.15278,
       "status": "Scored"
     },
     {
@@ -191,7 +191,7 @@
     {
       "repository": "jasonzli-DEV/minecraft-data",
       "url": "https://github.com/jasonzli-DEV/minecraft-data",
-      "score": 0.43545,
+      "score": 0.43534,
       "status": "Scored"
     },
     {
@@ -203,7 +203,7 @@
     {
       "repository": "jasonzli-DEV/MinePanel",
       "url": "https://github.com/jasonzli-DEV/MinePanel",
-      "score": 0.18112,
+      "score": 0.18301,
       "status": "Scored"
     },
     {
@@ -215,7 +215,7 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.1231,
+      "score": 0.12332,
       "status": "Scored"
     },
     {
@@ -227,7 +227,7 @@
     {
       "repository": "jasonzli-DEV/panel",
       "url": "https://github.com/jasonzli-DEV/panel",
-      "score": 0.36957,
+      "score": 0.36953,
       "status": "Scored"
     },
     {
@@ -263,7 +263,7 @@
     {
       "repository": "jasonzli-DEV/Scribe",
       "url": "https://github.com/jasonzli-DEV/Scribe",
-      "score": 0.11488,
+      "score": 0.11538,
       "status": "Scored"
     },
     {
@@ -401,7 +401,7 @@
     {
       "repository": "reviactyl/headless",
       "url": "https://github.com/reviactyl/headless",
-      "score": 0.25644,
+      "score": 0.25618,
       "status": "Scored"
     },
     {
@@ -413,13 +413,13 @@
     {
       "repository": "reviactyl/installer",
       "url": "https://github.com/reviactyl/installer",
-      "score": 0.23603,
+      "score": 0.23724,
       "status": "Scored"
     },
     {
       "repository": "reviactyl/panel",
       "url": "https://github.com/reviactyl/panel",
-      "score": 0.48176,
+      "score": 0.48172,
       "status": "Scored"
     },
     {
