@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26 09:06:07 UTC",
+  "updated_at": "2026-09-27 09:49:42 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -77,7 +77,7 @@
     {
       "repository": "jasonzli-DEV/cybrancee-bot-hosting-js",
       "url": "https://github.com/jasonzli-DEV/cybrancee-bot-hosting-js",
-      "score": 0.22627,
+      "score": 0.22609,
       "status": "Scored"
     },
     {
@@ -125,7 +125,7 @@
     {
       "repository": "jasonzli-DEV/GD3-Bot",
       "url": "https://github.com/jasonzli-DEV/GD3-Bot",
-      "score": 0.18253,
+      "score": 0.1827,
       "status": "Scored"
     },
     {
@@ -155,7 +155,7 @@
     {
       "repository": "jasonzli-DEV/Jesters-Slave",
       "url": "https://github.com/jasonzli-DEV/Jesters-Slave",
-      "score": 0.15278,
+      "score": 0.15721,
       "status": "Scored"
     },
     {
@@ -215,7 +215,7 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.12374,
+      "score": 0.12394,
       "status": "Scored"
     },
     {
@@ -299,7 +299,7 @@
     {
       "repository": "jasonzli-DEV/SimpliSure",
       "url": "https://github.com/jasonzli-DEV/SimpliSure",
-      "score": 0.1123,
+      "score": 0.1259,
       "status": "Scored"
     },
     {
@@ -371,7 +371,7 @@
     {
       "repository": "reviactyl/blueprint",
       "url": "https://github.com/reviactyl/blueprint",
-      "score": 0.36668,
+      "score": 0.36633,
       "status": "Scored"
     },
     {
@@ -423,6 +423,12 @@
       "status": "Scored"
     },
     {
+      "repository": "reviactyl/panel-ghsa-737j-g749-rhrp",
+      "url": "https://github.com/reviactyl/panel-ghsa-737j-g749-rhrp",
+      "score": null,
+      "status": "Collection failed"
+    },
+    {
       "repository": "reviactyl/presets",
       "url": "https://github.com/reviactyl/presets",
       "score": 0.17329,
@@ -443,7 +449,7 @@
     {
       "repository": "reviactyl/sponsors-only",
       "url": "https://github.com/reviactyl/sponsors-only",
-      "score": 0.186,
+      "score": 0.1874,
       "status": "Scored"
     },
     {
@@ -455,7 +461,7 @@
     {
       "repository": "reviactyl/web",
       "url": "https://github.com/reviactyl/web",
-      "score": 0.21669,
+      "score": 0.21704,
       "status": "Scored"
     },
     {
@@ -467,7 +473,7 @@
     {
       "repository": "xxtfrost/donutbot",
       "url": "https://github.com/xxtfrost/donutbot",
-      "score": 0.14894,
+      "score": 0.14877,
       "status": "Scored"
     }
   ]
