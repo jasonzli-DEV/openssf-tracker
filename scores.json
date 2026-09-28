@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27 09:49:42 UTC",
+  "updated_at": "2026-09-28 10:33:21 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -11,7 +11,7 @@
     {
       "repository": "ClassSMP/Essentials",
       "url": "https://github.com/ClassSMP/Essentials",
-      "score": 0.3774,
+      "score": 0.3773,
       "status": "Scored"
     },
     {
@@ -95,7 +95,7 @@
     {
       "repository": "jasonzli-DEV/Drive-Shift",
       "url": "https://github.com/jasonzli-DEV/Drive-Shift",
-      "score": 0.16089,
+      "score": 0.16226,
       "status": "Scored"
     },
     {
@@ -161,7 +161,7 @@
     {
       "repository": "jasonzli-DEV/mc-status-widget-for-minecraft",
       "url": "https://github.com/jasonzli-DEV/mc-status-widget-for-minecraft",
-      "score": 0.2258,
+      "score": 0.22562,
       "status": "Scored"
     },
     {
@@ -215,7 +215,7 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.12394,
+      "score": 0.12415,
       "status": "Scored"
     },
     {
@@ -227,7 +227,7 @@
     {
       "repository": "jasonzli-DEV/panel",
       "url": "https://github.com/jasonzli-DEV/panel",
-      "score": 0.36946,
+      "score": 0.36945,
       "status": "Scored"
     },
     {
@@ -251,7 +251,7 @@
     {
       "repository": "jasonzli-DEV/Scout",
       "url": "https://github.com/jasonzli-DEV/Scout",
-      "score": 0.11987,
+      "score": 0.1207,
       "status": "Scored"
     },
     {
@@ -317,7 +317,7 @@
     {
       "repository": "jasonzli-DEV/Spawner-Management",
       "url": "https://github.com/jasonzli-DEV/Spawner-Management",
-      "score": 0.14483,
+      "score": 0.14466,
       "status": "Scored"
     },
     {
@@ -365,7 +365,7 @@
     {
       "repository": "reviactyl/agent",
       "url": "https://github.com/reviactyl/agent",
-      "score": 0.44027,
+      "score": 0.44045,
       "status": "Scored"
     },
     {
@@ -401,7 +401,7 @@
     {
       "repository": "reviactyl/headless",
       "url": "https://github.com/reviactyl/headless",
-      "score": 0.25574,
+      "score": 0.25571,
       "status": "Scored"
     },
     {
@@ -413,7 +413,7 @@
     {
       "repository": "reviactyl/installer",
       "url": "https://github.com/reviactyl/installer",
-      "score": 0.23724,
+      "score": 0.24141,
       "status": "Scored"
     },
     {
@@ -461,7 +461,7 @@
     {
       "repository": "reviactyl/web",
       "url": "https://github.com/reviactyl/web",
-      "score": 0.21704,
+      "score": 0.21711,
       "status": "Scored"
     },
     {
