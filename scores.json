@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29 10:25:29 UTC",
+  "updated_at": "2026-09-30 10:18:28 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -77,14 +77,14 @@
     {
       "repository": "jasonzli-DEV/cybrancee-bot-hosting-js",
       "url": "https://github.com/jasonzli-DEV/cybrancee-bot-hosting-js",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.22609,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/D-Drive",
       "url": "https://github.com/jasonzli-DEV/D-Drive",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.22647,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/Drive",
@@ -95,38 +95,38 @@
     {
       "repository": "jasonzli-DEV/Drive-Shift",
       "url": "https://github.com/jasonzli-DEV/Drive-Shift",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.16208,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/Fabric-Tutorial-1.21.X",
       "url": "https://github.com/jasonzli-DEV/Fabric-Tutorial-1.21.X",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.14865,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/fortniteLobbyBot",
       "url": "https://github.com/jasonzli-DEV/fortniteLobbyBot",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.17388,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/FREE6",
       "url": "https://github.com/jasonzli-DEV/FREE6",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.15278,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/gameCore",
       "url": "https://github.com/jasonzli-DEV/gameCore",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.14865,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/GD3-Bot",
       "url": "https://github.com/jasonzli-DEV/GD3-Bot",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.1827,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/ghostdeps",
@@ -137,8 +137,8 @@
     {
       "repository": "jasonzli-DEV/Ghostdeps-test",
       "url": "https://github.com/jasonzli-DEV/Ghostdeps-test",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.31322,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/jasonzli-DEV",
@@ -169,6 +169,12 @@
       "url": "https://github.com/jasonzli-DEV/MCPlugins",
       "score": null,
       "status": "OpenSSF contributor lookup failed"
+    },
+    {
+      "repository": "jasonzli-DEV/MediaBox",
+      "url": "https://github.com/jasonzli-DEV/MediaBox",
+      "score": 0.11425,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/messageMe",
@@ -215,7 +221,7 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.12425,
+      "score": 0.12444,
       "status": "Scored"
     },
     {
@@ -227,7 +233,7 @@
     {
       "repository": "jasonzli-DEV/panel",
       "url": "https://github.com/jasonzli-DEV/panel",
-      "score": 0.36945,
+      "score": 0.36944,
       "status": "Scored"
     },
     {
@@ -251,7 +257,7 @@
     {
       "repository": "jasonzli-DEV/Scout",
       "url": "https://github.com/jasonzli-DEV/Scout",
-      "score": 0.12116,
+      "score": 0.12129,
       "status": "Scored"
     },
     {
@@ -359,13 +365,13 @@
     {
       "repository": "reviactyl/.github",
       "url": "https://github.com/reviactyl/.github",
-      "score": 0.19152,
+      "score": 0.19064,
       "status": "Scored"
     },
     {
       "repository": "reviactyl/agent",
       "url": "https://github.com/reviactyl/agent",
-      "score": 0.44045,
+      "score": 0.44119,
       "status": "Scored"
     },
     {
@@ -401,7 +407,7 @@
     {
       "repository": "reviactyl/headless",
       "url": "https://github.com/reviactyl/headless",
-      "score": 0.25569,
+      "score": 0.25564,
       "status": "Scored"
     },
     {
@@ -421,12 +427,6 @@
       "url": "https://github.com/reviactyl/panel",
       "score": 0.48172,
       "status": "Scored"
-    },
-    {
-      "repository": "reviactyl/panel-ghsa-737j-g749-rhrp",
-      "url": "https://github.com/reviactyl/panel-ghsa-737j-g749-rhrp",
-      "score": null,
-      "status": "Collection failed"
     },
     {
       "repository": "reviactyl/presets",
