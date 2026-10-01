@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30 10:18:28 UTC",
+  "updated_at": "2026-10-01 10:44:45 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -11,7 +11,7 @@
     {
       "repository": "ClassSMP/Essentials",
       "url": "https://github.com/ClassSMP/Essentials",
-      "score": 0.37697,
+      "score": 0.37686,
       "status": "Scored"
     },
     {
@@ -23,7 +23,7 @@
     {
       "repository": "EnderBit-Hosting/enderbit",
       "url": "https://github.com/EnderBit-Hosting/enderbit",
-      "score": 0.16402,
+      "score": 0.16561,
       "status": "Scored"
     },
     {
@@ -173,7 +173,7 @@
     {
       "repository": "jasonzli-DEV/MediaBox",
       "url": "https://github.com/jasonzli-DEV/MediaBox",
-      "score": 0.11425,
+      "score": 0.11614,
       "status": "Scored"
     },
     {
@@ -197,7 +197,7 @@
     {
       "repository": "jasonzli-DEV/minecraft-data",
       "url": "https://github.com/jasonzli-DEV/minecraft-data",
-      "score": 0.43508,
+      "score": 0.43487,
       "status": "Scored"
     },
     {
@@ -221,7 +221,7 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.12444,
+      "score": 0.12464,
       "status": "Scored"
     },
     {
@@ -233,7 +233,7 @@
     {
       "repository": "jasonzli-DEV/panel",
       "url": "https://github.com/jasonzli-DEV/panel",
-      "score": 0.36944,
+      "score": 0.36943,
       "status": "Scored"
     },
     {
@@ -371,13 +371,13 @@
     {
       "repository": "reviactyl/agent",
       "url": "https://github.com/reviactyl/agent",
-      "score": 0.44119,
+      "score": 0.44271,
       "status": "Scored"
     },
     {
       "repository": "reviactyl/blueprint",
       "url": "https://github.com/reviactyl/blueprint",
-      "score": 0.36633,
+      "score": 0.36611,
       "status": "Scored"
     },
     {
@@ -407,7 +407,7 @@
     {
       "repository": "reviactyl/headless",
       "url": "https://github.com/reviactyl/headless",
-      "score": 0.25564,
+      "score": 0.25553,
       "status": "Scored"
     },
     {
