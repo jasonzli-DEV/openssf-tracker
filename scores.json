@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01 10:44:45 UTC",
+  "updated_at": "2026-10-02 10:20:07 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -77,7 +77,7 @@
     {
       "repository": "jasonzli-DEV/cybrancee-bot-hosting-js",
       "url": "https://github.com/jasonzli-DEV/cybrancee-bot-hosting-js",
-      "score": 0.22609,
+      "score": 0.22555,
       "status": "Scored"
     },
     {
@@ -161,7 +161,7 @@
     {
       "repository": "jasonzli-DEV/mc-status-widget-for-minecraft",
       "url": "https://github.com/jasonzli-DEV/mc-status-widget-for-minecraft",
-      "score": 0.22562,
+      "score": 0.22535,
       "status": "Scored"
     },
     {
@@ -173,7 +173,7 @@
     {
       "repository": "jasonzli-DEV/MediaBox",
       "url": "https://github.com/jasonzli-DEV/MediaBox",
-      "score": 0.11614,
+      "score": 0.11651,
       "status": "Scored"
     },
     {
@@ -197,7 +197,7 @@
     {
       "repository": "jasonzli-DEV/minecraft-data",
       "url": "https://github.com/jasonzli-DEV/minecraft-data",
-      "score": 0.43487,
+      "score": 0.43444,
       "status": "Scored"
     },
     {
@@ -221,7 +221,7 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.12464,
+      "score": 0.12483,
       "status": "Scored"
     },
     {
@@ -233,7 +233,7 @@
     {
       "repository": "jasonzli-DEV/panel",
       "url": "https://github.com/jasonzli-DEV/panel",
-      "score": 0.36943,
+      "score": 0.36941,
       "status": "Scored"
     },
     {
@@ -335,7 +335,7 @@
     {
       "repository": "jasonzli-DEV/VeriHook",
       "url": "https://github.com/jasonzli-DEV/VeriHook",
-      "score": 0.13485,
+      "score": 0.14057,
       "status": "Scored"
     },
     {
@@ -371,7 +371,7 @@
     {
       "repository": "reviactyl/agent",
       "url": "https://github.com/reviactyl/agent",
-      "score": 0.44271,
+      "score": 0.44256,
       "status": "Scored"
     },
     {
@@ -407,13 +407,13 @@
     {
       "repository": "reviactyl/headless",
       "url": "https://github.com/reviactyl/headless",
-      "score": 0.25553,
+      "score": 0.25544,
       "status": "Scored"
     },
     {
       "repository": "reviactyl/images",
       "url": "https://github.com/reviactyl/images",
-      "score": 0.34472,
+      "score": 0.34455,
       "status": "Scored"
     },
     {
@@ -425,7 +425,7 @@
     {
       "repository": "reviactyl/panel",
       "url": "https://github.com/reviactyl/panel",
-      "score": 0.48172,
+      "score": 0.48175,
       "status": "Scored"
     },
     {
@@ -449,7 +449,7 @@
     {
       "repository": "reviactyl/sponsors-only",
       "url": "https://github.com/reviactyl/sponsors-only",
-      "score": 0.1874,
+      "score": 0.18713,
       "status": "Scored"
     },
     {
@@ -461,7 +461,7 @@
     {
       "repository": "reviactyl/web",
       "url": "https://github.com/reviactyl/web",
-      "score": 0.21711,
+      "score": 0.21638,
       "status": "Scored"
     },
     {
