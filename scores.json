@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02 10:20:07 UTC",
+  "updated_at": "2026-10-03 09:41:15 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -107,7 +107,7 @@
     {
       "repository": "jasonzli-DEV/fortniteLobbyBot",
       "url": "https://github.com/jasonzli-DEV/fortniteLobbyBot",
-      "score": 0.17388,
+      "score": 0.17559,
       "status": "Scored"
     },
     {
@@ -161,7 +161,7 @@
     {
       "repository": "jasonzli-DEV/mc-status-widget-for-minecraft",
       "url": "https://github.com/jasonzli-DEV/mc-status-widget-for-minecraft",
-      "score": 0.22535,
+      "score": 0.22508,
       "status": "Scored"
     },
     {
@@ -197,7 +197,7 @@
     {
       "repository": "jasonzli-DEV/minecraft-data",
       "url": "https://github.com/jasonzli-DEV/minecraft-data",
-      "score": 0.43444,
+      "score": 0.43433,
       "status": "Scored"
     },
     {
@@ -221,7 +221,7 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.12483,
+      "score": 0.12502,
       "status": "Scored"
     },
     {
@@ -233,7 +233,7 @@
     {
       "repository": "jasonzli-DEV/panel",
       "url": "https://github.com/jasonzli-DEV/panel",
-      "score": 0.36941,
+      "score": 0.36939,
       "status": "Scored"
     },
     {
@@ -251,7 +251,7 @@
     {
       "repository": "jasonzli-DEV/RBR-Bonus-Claimer",
       "url": "https://github.com/jasonzli-DEV/RBR-Bonus-Claimer",
-      "score": 0.20509,
+      "score": 0.20578,
       "status": "Scored"
     },
     {
@@ -347,7 +347,7 @@
     {
       "repository": "jasonzli-DEV/Wallet-Checker",
       "url": "https://github.com/jasonzli-DEV/Wallet-Checker",
-      "score": 0.18358,
+      "score": 0.18405,
       "status": "Scored"
     },
     {
@@ -365,13 +365,13 @@
     {
       "repository": "reviactyl/.github",
       "url": "https://github.com/reviactyl/.github",
-      "score": 0.19064,
+      "score": 0.19038,
       "status": "Scored"
     },
     {
       "repository": "reviactyl/agent",
       "url": "https://github.com/reviactyl/agent",
-      "score": 0.44256,
+      "score": 0.44394,
       "status": "Scored"
     },
     {
@@ -407,7 +407,7 @@
     {
       "repository": "reviactyl/headless",
       "url": "https://github.com/reviactyl/headless",
-      "score": 0.25544,
+      "score": 0.25528,
       "status": "Scored"
     },
     {
@@ -461,13 +461,13 @@
     {
       "repository": "reviactyl/web",
       "url": "https://github.com/reviactyl/web",
-      "score": 0.21638,
+      "score": 0.2163,
       "status": "Scored"
     },
     {
       "repository": "reviactyl/whmcs",
       "url": "https://github.com/reviactyl/whmcs",
-      "score": 0.31493,
+      "score": 0.31512,
       "status": "Scored"
     },
     {
