@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-03 09:41:15 UTC",
+  "updated_at": "2026-10-04 10:27:13 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
       "repository": "ClassSMP/classsmp-core",
       "url": "https://github.com/ClassSMP/classsmp-core",
-      "score": 0.13831,
+      "score": 0.14257,
       "status": "Scored"
     },
     {
       "repository": "ClassSMP/Essentials",
       "url": "https://github.com/ClassSMP/Essentials",
-      "score": 0.37686,
+      "score": 0.37643,
       "status": "Scored"
     },
     {
@@ -41,7 +41,7 @@
     {
       "repository": "jasonzli-DEV/Aura",
       "url": "https://github.com/jasonzli-DEV/Aura",
-      "score": 0.18962,
+      "score": 0.19268,
       "status": "Scored"
     },
     {
@@ -221,7 +221,7 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.12502,
+      "score": 0.12521,
       "status": "Scored"
     },
     {
@@ -233,7 +233,7 @@
     {
       "repository": "jasonzli-DEV/panel",
       "url": "https://github.com/jasonzli-DEV/panel",
-      "score": 0.36939,
+      "score": 0.36918,
       "status": "Scored"
     },
     {
@@ -383,7 +383,7 @@
     {
       "repository": "reviactyl/cdn",
       "url": "https://github.com/reviactyl/cdn",
-      "score": 0.18001,
+      "score": 0.18266,
       "status": "Scored"
     },
     {
@@ -407,7 +407,7 @@
     {
       "repository": "reviactyl/headless",
       "url": "https://github.com/reviactyl/headless",
-      "score": 0.25528,
+      "score": 0.2538,
       "status": "Scored"
     },
     {
@@ -425,7 +425,7 @@
     {
       "repository": "reviactyl/panel",
       "url": "https://github.com/reviactyl/panel",
-      "score": 0.48175,
+      "score": 0.48157,
       "status": "Scored"
     },
     {
@@ -461,7 +461,7 @@
     {
       "repository": "reviactyl/web",
       "url": "https://github.com/reviactyl/web",
-      "score": 0.2163,
+      "score": 0.21614,
       "status": "Scored"
     },
     {
