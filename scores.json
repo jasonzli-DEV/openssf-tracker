@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04 10:27:13 UTC",
+  "updated_at": "2026-10-05 11:11:42 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -47,7 +47,7 @@
     {
       "repository": "jasonzli-DEV/Autosell",
       "url": "https://github.com/jasonzli-DEV/Autosell",
-      "score": 0.14484,
+      "score": 0.14927,
       "status": "Scored"
     },
     {
@@ -77,13 +77,13 @@
     {
       "repository": "jasonzli-DEV/cybrancee-bot-hosting-js",
       "url": "https://github.com/jasonzli-DEV/cybrancee-bot-hosting-js",
-      "score": 0.22555,
+      "score": 0.2259,
       "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/D-Drive",
       "url": "https://github.com/jasonzli-DEV/D-Drive",
-      "score": 0.22647,
+      "score": 0.22259,
       "status": "Scored"
     },
     {
@@ -191,13 +191,13 @@
     {
       "repository": "jasonzli-DEV/MineBot",
       "url": "https://github.com/jasonzli-DEV/MineBot",
-      "score": 0.18778,
+      "score": 0.18824,
       "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/minecraft-data",
       "url": "https://github.com/jasonzli-DEV/minecraft-data",
-      "score": 0.43433,
+      "score": 0.43399,
       "status": "Scored"
     },
     {
@@ -209,7 +209,7 @@
     {
       "repository": "jasonzli-DEV/MinePanel",
       "url": "https://github.com/jasonzli-DEV/MinePanel",
-      "score": 0.18301,
+      "score": 0.18284,
       "status": "Scored"
     },
     {
@@ -221,7 +221,7 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.12521,
+      "score": 0.1254,
       "status": "Scored"
     },
     {
@@ -275,7 +275,7 @@
     {
       "repository": "jasonzli-DEV/Sellbot",
       "url": "https://github.com/jasonzli-DEV/Sellbot",
-      "score": 0.14371,
+      "score": 0.14354,
       "status": "Scored"
     },
     {
@@ -329,7 +329,7 @@
     {
       "repository": "jasonzli-DEV/thecape.shop",
       "url": "https://github.com/jasonzli-DEV/thecape.shop",
-      "score": 0.15503,
+      "score": 0.16074,
       "status": "Scored"
     },
     {
@@ -359,7 +359,7 @@
     {
       "repository": "jasonzli-DEV/YT-Watchtime",
       "url": "https://github.com/jasonzli-DEV/YT-Watchtime",
-      "score": 0.19372,
+      "score": 0.19355,
       "status": "Scored"
     },
     {
@@ -371,7 +371,7 @@
     {
       "repository": "reviactyl/agent",
       "url": "https://github.com/reviactyl/agent",
-      "score": 0.44394,
+      "score": 0.44539,
       "status": "Scored"
     },
     {
@@ -461,7 +461,7 @@
     {
       "repository": "reviactyl/web",
       "url": "https://github.com/reviactyl/web",
-      "score": 0.21614,
+      "score": 0.21585,
       "status": "Scored"
     },
     {
@@ -473,7 +473,7 @@
     {
       "repository": "xxtfrost/donutbot",
       "url": "https://github.com/xxtfrost/donutbot",
-      "score": 0.14877,
+      "score": 0.15239,
       "status": "Scored"
     }
   ]
