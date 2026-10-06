@@ -2,28 +2,28 @@
 
 Daily [OpenSSF Criticality Scores](https://github.com/ossf/criticality_score) for all repositories accessible to my GitHub account, including owned, collaborator, and organization repositories. Scores range from **0 to 1** and estimate project importance to the open-source ecosystem.
 
-Updated: **2026-10-05 11:11:42 UTC** · **74/79** repositories scored.
+Updated: **2026-10-06 11:01:56 UTC** · **74/79** repositories scored.
 
 | Repository | Criticality score | Status |
 | --- | ---: | --- |
-| [reviactyl/panel](https://github.com/reviactyl/panel) | 0.48157 | Scored |
+| [reviactyl/panel](https://github.com/reviactyl/panel) | 0.48275 | Scored |
 | [reviactyl/agent](https://github.com/reviactyl/agent) | 0.44539 | Scored |
 | [jasonzli-DEV/minecraft-data](https://github.com/jasonzli-DEV/minecraft-data) | 0.43399 | Scored |
 | [jasonzli-DEV/mineflayer](https://github.com/jasonzli-DEV/mineflayer) | 0.42205 | Scored |
 | [ClassSMP/Essentials](https://github.com/ClassSMP/Essentials) | 0.37643 | Scored |
-| [jasonzli-DEV/panel](https://github.com/jasonzli-DEV/panel) | 0.36918 | Scored |
-| [reviactyl/blueprint](https://github.com/reviactyl/blueprint) | 0.36611 | Scored |
+| [jasonzli-DEV/panel](https://github.com/jasonzli-DEV/panel) | 0.37037 | Scored |
+| [reviactyl/blueprint](https://github.com/reviactyl/blueprint) | 0.36646 | Scored |
 | [reviactyl/images](https://github.com/reviactyl/images) | 0.34455 | Scored |
 | [reviactyl/whmcs](https://github.com/reviactyl/whmcs) | 0.31512 | Scored |
 | [jasonzli-DEV/Ghostdeps-test](https://github.com/jasonzli-DEV/Ghostdeps-test) | 0.31322 | Scored |
 | [jasonzli-DEV/2Bored2Tolerate](https://github.com/jasonzli-DEV/2Bored2Tolerate) | 0.29977 | Scored |
 | [reviactyl/sso-panel](https://github.com/reviactyl/sso-panel) | 0.27046 | Scored |
-| [reviactyl/headless](https://github.com/reviactyl/headless) | 0.25380 | Scored |
+| [reviactyl/headless](https://github.com/reviactyl/headless) | 0.25487 | Scored |
 | [reviactyl/installer](https://github.com/reviactyl/installer) | 0.24124 | Scored |
 | [jasonzli-DEV/cybrancee-bot-hosting-js](https://github.com/jasonzli-DEV/cybrancee-bot-hosting-js) | 0.22590 | Scored |
 | [jasonzli-DEV/mc-status-widget-for-minecraft](https://github.com/jasonzli-DEV/mc-status-widget-for-minecraft) | 0.22508 | Scored |
 | [jasonzli-DEV/D-Drive](https://github.com/jasonzli-DEV/D-Drive) | 0.22259 | Scored |
-| [reviactyl/web](https://github.com/reviactyl/web) | 0.21585 | Scored |
+| [reviactyl/web](https://github.com/reviactyl/web) | 0.21577 | Scored |
 | [jasonzli-DEV/RBR-Bonus-Claimer](https://github.com/jasonzli-DEV/RBR-Bonus-Claimer) | 0.20578 | Scored |
 | [reviactyl/docs](https://github.com/reviactyl/docs) | 0.19866 | Scored |
 | [jasonzli-DEV/YT-Watchtime](https://github.com/jasonzli-DEV/YT-Watchtime) | 0.19355 | Scored |
@@ -46,11 +46,11 @@ Updated: **2026-10-05 11:11:42 UTC** · **74/79** repositories scored.
 | [EnderBit-Hosting/enderbit](https://github.com/EnderBit-Hosting/enderbit) | 0.16561 | Scored |
 | [jasonzli-DEV/messageMe](https://github.com/jasonzli-DEV/messageMe) | 0.16295 | Scored |
 | [jasonzli-DEV/Drive-Shift](https://github.com/jasonzli-DEV/Drive-Shift) | 0.16208 | Scored |
-| [jasonzli-DEV/thecape.shop](https://github.com/jasonzli-DEV/thecape.shop) | 0.16074 | Scored |
 | [jasonzli-DEV/Pterodactyl-Backup](https://github.com/jasonzli-DEV/Pterodactyl-Backup) | 0.15925 | Scored |
 | [jasonzli-DEV/Jesters-Slave](https://github.com/jasonzli-DEV/Jesters-Slave) | 0.15721 | Scored |
 | [jasonzli-DEV/shop-prices](https://github.com/jasonzli-DEV/shop-prices) | 0.15719 | Scored |
 | [jasonzli-DEV/mindbreak](https://github.com/jasonzli-DEV/mindbreak) | 0.15445 | Scored |
+| [jasonzli-DEV/thecape.shop](https://github.com/jasonzli-DEV/thecape.shop) | 0.15299 | Scored |
 | [jasonzli-DEV/FREE6](https://github.com/jasonzli-DEV/FREE6) | 0.15278 | Scored |
 | [xxtfrost/donutbot](https://github.com/xxtfrost/donutbot) | 0.15239 | Scored |
 | [jasonzli-DEV/Shard](https://github.com/jasonzli-DEV/Shard) | 0.15221 | Scored |
@@ -71,7 +71,7 @@ Updated: **2026-10-05 11:11:42 UTC** · **74/79** repositories scored.
 | [jasonzli-DEV/Screentime-Remover](https://github.com/jasonzli-DEV/Screentime-Remover) | 0.13831 | Scored |
 | [jasonzli-DEV/ServerImporter](https://github.com/jasonzli-DEV/ServerImporter) | 0.13831 | Scored |
 | [jasonzli-DEV/SimpliSure](https://github.com/jasonzli-DEV/SimpliSure) | 0.12590 | Scored |
-| [jasonzli-DEV/openssf-tracker](https://github.com/jasonzli-DEV/openssf-tracker) | 0.12540 | Scored |
+| [jasonzli-DEV/openssf-tracker](https://github.com/jasonzli-DEV/openssf-tracker) | 0.12558 | Scored |
 | [jasonzli-DEV/codex-roster](https://github.com/jasonzli-DEV/codex-roster) | 0.12488 | Scored |
 | [jasonzli-DEV/jasonzli-DEV](https://github.com/jasonzli-DEV/jasonzli-DEV) | 0.12461 | Scored |
 | [jasonzli-DEV/Scout](https://github.com/jasonzli-DEV/Scout) | 0.12129 | Scored |
