@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07 10:52:20 UTC",
+  "updated_at": "2026-10-08 11:10:21 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -11,7 +11,7 @@
     {
       "repository": "ClassSMP/Essentials",
       "url": "https://github.com/ClassSMP/Essentials",
-      "score": 0.37643,
+      "score": 0.37632,
       "status": "Scored"
     },
     {
@@ -197,7 +197,7 @@
     {
       "repository": "jasonzli-DEV/minecraft-data",
       "url": "https://github.com/jasonzli-DEV/minecraft-data",
-      "score": 0.43399,
+      "score": 0.43358,
       "status": "Scored"
     },
     {
@@ -221,7 +221,7 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.12576,
+      "score": 0.12594,
       "status": "Scored"
     },
     {
@@ -233,7 +233,7 @@
     {
       "repository": "jasonzli-DEV/panel",
       "url": "https://github.com/jasonzli-DEV/panel",
-      "score": 0.37026,
+      "score": 0.36984,
       "status": "Scored"
     },
     {
@@ -359,26 +359,26 @@
     {
       "repository": "jasonzli-DEV/YT-Watchtime",
       "url": "https://github.com/jasonzli-DEV/YT-Watchtime",
-      "score": 0.19355,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "reviactyl/.github",
       "url": "https://github.com/reviactyl/.github",
-      "score": 0.19038,
+      "score": 0.19148,
       "status": "Scored"
     },
     {
       "repository": "reviactyl/agent",
       "url": "https://github.com/reviactyl/agent",
-      "score": 0.44565,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "reviactyl/blueprint",
       "url": "https://github.com/reviactyl/blueprint",
-      "score": 0.36637,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "reviactyl/cdn",
@@ -407,7 +407,7 @@
     {
       "repository": "reviactyl/headless",
       "url": "https://github.com/reviactyl/headless",
-      "score": 0.25406,
+      "score": 0.25192,
       "status": "Scored"
     },
     {
@@ -425,7 +425,7 @@
     {
       "repository": "reviactyl/panel",
       "url": "https://github.com/reviactyl/panel",
-      "score": 0.48267,
+      "score": 0.4826,
       "status": "Scored"
     },
     {
@@ -455,7 +455,7 @@
     {
       "repository": "reviactyl/sso-panel",
       "url": "https://github.com/reviactyl/sso-panel",
-      "score": 0.27046,
+      "score": 0.27029,
       "status": "Scored"
     },
     {
