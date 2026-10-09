@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08 11:10:21 UTC",
+  "updated_at": "2026-10-09 11:09:00 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -179,7 +179,7 @@
     {
       "repository": "jasonzli-DEV/messageMe",
       "url": "https://github.com/jasonzli-DEV/messageMe",
-      "score": 0.16468,
+      "score": 0.1645,
       "status": "Scored"
     },
     {
@@ -221,7 +221,7 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.12594,
+      "score": 0.12611,
       "status": "Scored"
     },
     {
@@ -233,7 +233,7 @@
     {
       "repository": "jasonzli-DEV/panel",
       "url": "https://github.com/jasonzli-DEV/panel",
-      "score": 0.36984,
+      "score": 0.36978,
       "status": "Scored"
     },
     {
@@ -365,20 +365,20 @@
     {
       "repository": "reviactyl/.github",
       "url": "https://github.com/reviactyl/.github",
-      "score": 0.19148,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "reviactyl/agent",
       "url": "https://github.com/reviactyl/agent",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.44565,
+      "status": "Scored"
     },
     {
       "repository": "reviactyl/blueprint",
       "url": "https://github.com/reviactyl/blueprint",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.36619,
+      "status": "Scored"
     },
     {
       "repository": "reviactyl/cdn",
@@ -407,7 +407,7 @@
     {
       "repository": "reviactyl/headless",
       "url": "https://github.com/reviactyl/headless",
-      "score": 0.25192,
+      "score": 0.25133,
       "status": "Scored"
     },
     {
@@ -425,7 +425,7 @@
     {
       "repository": "reviactyl/panel",
       "url": "https://github.com/reviactyl/panel",
-      "score": 0.4826,
+      "score": 0.48263,
       "status": "Scored"
     },
     {
