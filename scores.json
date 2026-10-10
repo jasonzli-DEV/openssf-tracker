@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09 11:09:00 UTC",
+  "updated_at": "2026-10-10 10:26:40 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -185,7 +185,7 @@
     {
       "repository": "jasonzli-DEV/mindbreak",
       "url": "https://github.com/jasonzli-DEV/mindbreak",
-      "score": 0.15445,
+      "score": 0.15871,
       "status": "Scored"
     },
     {
@@ -197,13 +197,13 @@
     {
       "repository": "jasonzli-DEV/minecraft-data",
       "url": "https://github.com/jasonzli-DEV/minecraft-data",
-      "score": 0.43358,
+      "score": 0.43347,
       "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/mineflayer",
       "url": "https://github.com/jasonzli-DEV/mineflayer",
-      "score": 0.42205,
+      "score": 0.42182,
       "status": "Scored"
     },
     {
@@ -221,7 +221,7 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.12611,
+      "score": 0.12629,
       "status": "Scored"
     },
     {
@@ -233,7 +233,7 @@
     {
       "repository": "jasonzli-DEV/panel",
       "url": "https://github.com/jasonzli-DEV/panel",
-      "score": 0.36978,
+      "score": 0.36977,
       "status": "Scored"
     },
     {
@@ -251,7 +251,7 @@
     {
       "repository": "jasonzli-DEV/RBR-Bonus-Claimer",
       "url": "https://github.com/jasonzli-DEV/RBR-Bonus-Claimer",
-      "score": 0.20578,
+      "score": 0.2056,
       "status": "Scored"
     },
     {
@@ -263,7 +263,7 @@
     {
       "repository": "jasonzli-DEV/Screentime-Remover",
       "url": "https://github.com/jasonzli-DEV/Screentime-Remover",
-      "score": 0.13831,
+      "score": 0.14257,
       "status": "Scored"
     },
     {
@@ -293,7 +293,7 @@
     {
       "repository": "jasonzli-DEV/Shard",
       "url": "https://github.com/jasonzli-DEV/Shard",
-      "score": 0.15221,
+      "score": 0.15205,
       "status": "Scored"
     },
     {
@@ -359,19 +359,19 @@
     {
       "repository": "jasonzli-DEV/YT-Watchtime",
       "url": "https://github.com/jasonzli-DEV/YT-Watchtime",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.19409,
+      "status": "Scored"
     },
     {
       "repository": "reviactyl/.github",
       "url": "https://github.com/reviactyl/.github",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.19148,
+      "status": "Scored"
     },
     {
       "repository": "reviactyl/agent",
       "url": "https://github.com/reviactyl/agent",
-      "score": 0.44565,
+      "score": 0.44606,
       "status": "Scored"
     },
     {
@@ -393,9 +393,9 @@
       "status": "Scored"
     },
     {
-      "repository": "reviactyl/docs",
-      "url": "https://github.com/reviactyl/docs",
-      "score": 0.19866,
+      "repository": "reviactyl/documentation",
+      "url": "https://github.com/reviactyl/documentation",
+      "score": 0.16674,
       "status": "Scored"
     },
     {
@@ -407,7 +407,7 @@
     {
       "repository": "reviactyl/headless",
       "url": "https://github.com/reviactyl/headless",
-      "score": 0.25133,
+      "score": 0.25129,
       "status": "Scored"
     },
     {
@@ -425,7 +425,7 @@
     {
       "repository": "reviactyl/panel",
       "url": "https://github.com/reviactyl/panel",
-      "score": 0.48263,
+      "score": 0.4828,
       "status": "Scored"
     },
     {
