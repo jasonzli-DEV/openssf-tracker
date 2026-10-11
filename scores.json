@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10 10:26:40 UTC",
+  "updated_at": "2026-10-11 10:36:45 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -11,7 +11,7 @@
     {
       "repository": "ClassSMP/Essentials",
       "url": "https://github.com/ClassSMP/Essentials",
-      "score": 0.37632,
+      "score": 0.37621,
       "status": "Scored"
     },
     {
@@ -101,7 +101,7 @@
     {
       "repository": "jasonzli-DEV/Fabric-Tutorial-1.21.X",
       "url": "https://github.com/jasonzli-DEV/Fabric-Tutorial-1.21.X",
-      "score": 0.14865,
+      "score": 0.15112,
       "status": "Scored"
     },
     {
@@ -114,6 +114,12 @@
       "repository": "jasonzli-DEV/FREE6",
       "url": "https://github.com/jasonzli-DEV/FREE6",
       "score": 0.15278,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/FreecamMC",
+      "url": "https://github.com/jasonzli-DEV/FreecamMC",
+      "score": 0.11128,
       "status": "Scored"
     },
     {
@@ -221,7 +227,7 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.12629,
+      "score": 0.12646,
       "status": "Scored"
     },
     {
@@ -233,7 +239,7 @@
     {
       "repository": "jasonzli-DEV/panel",
       "url": "https://github.com/jasonzli-DEV/panel",
-      "score": 0.36977,
+      "score": 0.36975,
       "status": "Scored"
     },
     {
@@ -327,9 +333,21 @@
       "status": "Scored"
     },
     {
+      "repository": "jasonzli-DEV/t3code",
+      "url": "https://github.com/jasonzli-DEV/t3code",
+      "score": 0.45874,
+      "status": "Scored"
+    },
+    {
       "repository": "jasonzli-DEV/thecape.shop",
       "url": "https://github.com/jasonzli-DEV/thecape.shop",
       "score": 0.15299,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/unity-projects-backup",
+      "url": "https://github.com/jasonzli-DEV/unity-projects-backup",
+      "score": 0.11101,
       "status": "Scored"
     },
     {
@@ -395,7 +413,7 @@
     {
       "repository": "reviactyl/documentation",
       "url": "https://github.com/reviactyl/documentation",
-      "score": 0.16674,
+      "score": 0.16939,
       "status": "Scored"
     },
     {
@@ -407,7 +425,7 @@
     {
       "repository": "reviactyl/headless",
       "url": "https://github.com/reviactyl/headless",
-      "score": 0.25129,
+      "score": 0.25105,
       "status": "Scored"
     },
     {
@@ -419,13 +437,13 @@
     {
       "repository": "reviactyl/installer",
       "url": "https://github.com/reviactyl/installer",
-      "score": 0.24124,
+      "score": 0.24448,
       "status": "Scored"
     },
     {
       "repository": "reviactyl/panel",
       "url": "https://github.com/reviactyl/panel",
-      "score": 0.4828,
+      "score": 0.48283,
       "status": "Scored"
     },
     {
@@ -461,7 +479,7 @@
     {
       "repository": "reviactyl/web",
       "url": "https://github.com/reviactyl/web",
-      "score": 0.21568,
+      "score": 0.21707,
       "status": "Scored"
     },
     {
