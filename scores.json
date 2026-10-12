@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11 10:36:45 UTC",
+  "updated_at": "2026-10-12 11:40:06 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -119,7 +119,7 @@
     {
       "repository": "jasonzli-DEV/FreecamMC",
       "url": "https://github.com/jasonzli-DEV/FreecamMC",
-      "score": 0.11128,
+      "score": 0.1589,
       "status": "Scored"
     },
     {
@@ -227,19 +227,19 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.12646,
+      "score": 0.14031,
       "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/PacMan",
       "url": "https://github.com/jasonzli-DEV/PacMan",
-      "score": 0.13831,
+      "score": 0.14257,
       "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/panel",
       "url": "https://github.com/jasonzli-DEV/panel",
-      "score": 0.36975,
+      "score": 0.36953,
       "status": "Scored"
     },
     {
@@ -287,13 +287,13 @@
     {
       "repository": "jasonzli-DEV/ServerIcon",
       "url": "https://github.com/jasonzli-DEV/ServerIcon",
-      "score": 0.13857,
+      "score": 0.14284,
       "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/ServerImporter",
       "url": "https://github.com/jasonzli-DEV/ServerImporter",
-      "score": 0.13831,
+      "score": 0.14257,
       "status": "Scored"
     },
     {
@@ -359,7 +359,7 @@
     {
       "repository": "jasonzli-DEV/VersionChanger",
       "url": "https://github.com/jasonzli-DEV/VersionChanger",
-      "score": 0.14833,
+      "score": 0.15259,
       "status": "Scored"
     },
     {
@@ -389,7 +389,7 @@
     {
       "repository": "reviactyl/agent",
       "url": "https://github.com/reviactyl/agent",
-      "score": 0.44606,
+      "score": 0.44723,
       "status": "Scored"
     },
     {
@@ -425,7 +425,7 @@
     {
       "repository": "reviactyl/headless",
       "url": "https://github.com/reviactyl/headless",
-      "score": 0.25105,
+      "score": 0.24885,
       "status": "Scored"
     },
     {
@@ -443,7 +443,7 @@
     {
       "repository": "reviactyl/panel",
       "url": "https://github.com/reviactyl/panel",
-      "score": 0.48283,
+      "score": 0.48274,
       "status": "Scored"
     },
     {
