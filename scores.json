@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12 11:40:06 UTC",
+  "updated_at": "2026-10-13 11:25:42 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -209,13 +209,13 @@
     {
       "repository": "jasonzli-DEV/mineflayer",
       "url": "https://github.com/jasonzli-DEV/mineflayer",
-      "score": 0.42182,
+      "score": 0.42164,
       "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/MinePanel",
       "url": "https://github.com/jasonzli-DEV/MinePanel",
-      "score": 0.18284,
+      "score": 0.18708,
       "status": "Scored"
     },
     {
@@ -227,7 +227,7 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.14031,
+      "score": 0.14047,
       "status": "Scored"
     },
     {
@@ -305,7 +305,7 @@
     {
       "repository": "jasonzli-DEV/shop-prices",
       "url": "https://github.com/jasonzli-DEV/shop-prices",
-      "score": 0.15719,
+      "score": 0.15873,
       "status": "Scored"
     },
     {
@@ -389,7 +389,7 @@
     {
       "repository": "reviactyl/agent",
       "url": "https://github.com/reviactyl/agent",
-      "score": 0.44723,
+      "score": 0.44803,
       "status": "Scored"
     },
     {
@@ -425,7 +425,7 @@
     {
       "repository": "reviactyl/headless",
       "url": "https://github.com/reviactyl/headless",
-      "score": 0.24885,
+      "score": 0.24882,
       "status": "Scored"
     },
     {
@@ -443,7 +443,7 @@
     {
       "repository": "reviactyl/panel",
       "url": "https://github.com/reviactyl/panel",
-      "score": 0.48274,
+      "score": 0.483,
       "status": "Scored"
     },
     {
@@ -479,7 +479,7 @@
     {
       "repository": "reviactyl/web",
       "url": "https://github.com/reviactyl/web",
-      "score": 0.21707,
+      "score": 0.22296,
       "status": "Scored"
     },
     {
