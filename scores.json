@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15 08:51:41 UTC",
+  "updated_at": "2026-10-16 08:45:47 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -41,7 +41,7 @@
     {
       "repository": "jasonzli-DEV/Aura",
       "url": "https://github.com/jasonzli-DEV/Aura",
-      "score": 0.19268,
+      "score": 0.19656,
       "status": "Scored"
     },
     {
@@ -113,32 +113,32 @@
     {
       "repository": "jasonzli-DEV/fortniteLobbyBot",
       "url": "https://github.com/jasonzli-DEV/fortniteLobbyBot",
-      "score": 0.17559,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "jasonzli-DEV/FREE6",
       "url": "https://github.com/jasonzli-DEV/FREE6",
-      "score": 0.15278,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "jasonzli-DEV/FreecamMC",
       "url": "https://github.com/jasonzli-DEV/FreecamMC",
-      "score": 0.1589,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "jasonzli-DEV/gameCore",
       "url": "https://github.com/jasonzli-DEV/gameCore",
-      "score": 0.14865,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "jasonzli-DEV/GD3-Bot",
       "url": "https://github.com/jasonzli-DEV/GD3-Bot",
-      "score": 0.17495,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "jasonzli-DEV/ghostdeps",
@@ -149,14 +149,14 @@
     {
       "repository": "jasonzli-DEV/Ghostdeps-test",
       "url": "https://github.com/jasonzli-DEV/Ghostdeps-test",
-      "score": 0.31304,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "jasonzli-DEV/jasonzli-DEV",
       "url": "https://github.com/jasonzli-DEV/jasonzli-DEV",
-      "score": 0.12461,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "jasonzli-DEV/jasonzli-dev.github.io",
@@ -233,7 +233,7 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.14081,
+      "score": 0.14097,
       "status": "Scored"
     },
     {
@@ -245,7 +245,7 @@
     {
       "repository": "jasonzli-DEV/panel",
       "url": "https://github.com/jasonzli-DEV/panel",
-      "score": 0.36951,
+      "score": 0.3695,
       "status": "Scored"
     },
     {
@@ -335,8 +335,8 @@
     {
       "repository": "jasonzli-DEV/Spawner-Management",
       "url": "https://github.com/jasonzli-DEV/Spawner-Management",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.14466,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/t3code",
@@ -353,14 +353,14 @@
     {
       "repository": "jasonzli-DEV/unity-projects-backup",
       "url": "https://github.com/jasonzli-DEV/unity-projects-backup",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.11101,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/VeriHook",
       "url": "https://github.com/jasonzli-DEV/VeriHook",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.14057,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/VersionChanger",
@@ -401,7 +401,7 @@
     {
       "repository": "reviactyl/blueprint",
       "url": "https://github.com/reviactyl/blueprint",
-      "score": 0.36601,
+      "score": 0.36583,
       "status": "Scored"
     },
     {
@@ -431,7 +431,7 @@
     {
       "repository": "reviactyl/headless",
       "url": "https://github.com/reviactyl/headless",
-      "score": 0.24863,
+      "score": 0.24849,
       "status": "Scored"
     },
     {
@@ -449,8 +449,8 @@
     {
       "repository": "reviactyl/panel",
       "url": "https://github.com/reviactyl/panel",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.48298,
+      "status": "Scored"
     },
     {
       "repository": "reviactyl/presets",
@@ -461,44 +461,44 @@
     {
       "repository": "reviactyl/revicons",
       "url": "https://github.com/reviactyl/revicons",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.18845,
+      "status": "Scored"
     },
     {
       "repository": "reviactyl/rextstore-prototype",
       "url": "https://github.com/reviactyl/rextstore-prototype",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.18825,
+      "status": "Scored"
     },
     {
       "repository": "reviactyl/sponsors-only",
       "url": "https://github.com/reviactyl/sponsors-only",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.18713,
+      "status": "Scored"
     },
     {
       "repository": "reviactyl/sso-panel",
       "url": "https://github.com/reviactyl/sso-panel",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.27029,
+      "status": "Scored"
     },
     {
       "repository": "reviactyl/web",
       "url": "https://github.com/reviactyl/web",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.22296,
+      "status": "Scored"
     },
     {
       "repository": "reviactyl/whmcs",
       "url": "https://github.com/reviactyl/whmcs",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.31495,
+      "status": "Scored"
     },
     {
       "repository": "xxtfrost/donutbot",
       "url": "https://github.com/xxtfrost/donutbot",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.15239,
+      "status": "Scored"
     }
   ]
 }
