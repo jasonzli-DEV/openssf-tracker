@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18 08:33:57 UTC",
+  "updated_at": "2026-10-19 09:36:36 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -47,7 +47,7 @@
     {
       "repository": "jasonzli-DEV/Autosell",
       "url": "https://github.com/jasonzli-DEV/Autosell",
-      "score": 0.14927,
+      "score": 0.1491,
       "status": "Scored"
     },
     {
@@ -155,7 +155,7 @@
     {
       "repository": "jasonzli-DEV/jasonzli-DEV",
       "url": "https://github.com/jasonzli-DEV/jasonzli-DEV",
-      "score": 0.12461,
+      "score": 0.1325,
       "status": "Scored"
     },
     {
@@ -167,7 +167,7 @@
     {
       "repository": "jasonzli-DEV/Jesters-Slave",
       "url": "https://github.com/jasonzli-DEV/Jesters-Slave",
-      "score": 0.15705,
+      "score": 0.15747,
       "status": "Scored"
     },
     {
@@ -215,7 +215,7 @@
     {
       "repository": "jasonzli-DEV/mineflayer",
       "url": "https://github.com/jasonzli-DEV/mineflayer",
-      "score": 0.42164,
+      "score": 0.42141,
       "status": "Scored"
     },
     {
@@ -233,7 +233,13 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.14129,
+      "score": 0.14144,
+      "status": "Scored"
+    },
+    {
+      "repository": "jasonzli-DEV/oss-scanner",
+      "url": "https://github.com/jasonzli-DEV/oss-scanner",
+      "score": 0.29094,
       "status": "Scored"
     },
     {
@@ -245,7 +251,7 @@
     {
       "repository": "jasonzli-DEV/panel",
       "url": "https://github.com/jasonzli-DEV/panel",
-      "score": 0.36929,
+      "score": 0.36923,
       "status": "Scored"
     },
     {
@@ -329,7 +335,7 @@
     {
       "repository": "jasonzli-DEV/SOL-Trading-Bot",
       "url": "https://github.com/jasonzli-DEV/SOL-Trading-Bot",
-      "score": 0.15213,
+      "score": 0.15196,
       "status": "Scored"
     },
     {
@@ -371,8 +377,8 @@
     {
       "repository": "jasonzli-DEV/Wallet-Checker",
       "url": "https://github.com/jasonzli-DEV/Wallet-Checker",
-      "score": 0.18388,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "jasonzli-DEV/world-explorer",
@@ -395,7 +401,7 @@
     {
       "repository": "reviactyl/agent",
       "url": "https://github.com/reviactyl/agent",
-      "score": 0.4505,
+      "score": 0.45176,
       "status": "Scored"
     },
     {
@@ -419,7 +425,7 @@
     {
       "repository": "reviactyl/desktop",
       "url": "https://github.com/reviactyl/desktop",
-      "score": 0.17739,
+      "score": 0.17722,
       "status": "Scored"
     },
     {
@@ -443,7 +449,7 @@
     {
       "repository": "reviactyl/headless",
       "url": "https://github.com/reviactyl/headless",
-      "score": 0.37272,
+      "score": 0.37267,
       "status": "Scored"
     },
     {
@@ -461,7 +467,7 @@
     {
       "repository": "reviactyl/panel",
       "url": "https://github.com/reviactyl/panel",
-      "score": 0.48284,
+      "score": 0.48282,
       "status": "Scored"
     },
     {
@@ -473,7 +479,7 @@
     {
       "repository": "reviactyl/revicons",
       "url": "https://github.com/reviactyl/revicons",
-      "score": 0.18845,
+      "score": 0.18793,
       "status": "Scored"
     },
     {
@@ -495,9 +501,15 @@
       "status": "Scored"
     },
     {
+      "repository": "reviactyl/vscode-extension",
+      "url": "https://github.com/reviactyl/vscode-extension",
+      "score": 0.13881,
+      "status": "Scored"
+    },
+    {
       "repository": "reviactyl/web",
       "url": "https://github.com/reviactyl/web",
-      "score": 0.25687,
+      "score": 0.25709,
       "status": "Scored"
     },
     {
