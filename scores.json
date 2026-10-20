@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19 09:36:36 UTC",
+  "updated_at": "2026-10-20 09:08:49 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -23,13 +23,13 @@
     {
       "repository": "EnderBit-Hosting/enderbit",
       "url": "https://github.com/EnderBit-Hosting/enderbit",
-      "score": 0.16561,
+      "score": 0.16544,
       "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/2Bored2Tolerate",
       "url": "https://github.com/jasonzli-DEV/2Bored2Tolerate",
-      "score": 0.2996,
+      "score": 0.29981,
       "status": "Scored"
     },
     {
@@ -233,13 +233,13 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.14144,
+      "score": 0.1416,
       "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/oss-scanner",
       "url": "https://github.com/jasonzli-DEV/oss-scanner",
-      "score": 0.29094,
+      "score": 0.29847,
       "status": "Scored"
     },
     {
@@ -251,7 +251,7 @@
     {
       "repository": "jasonzli-DEV/panel",
       "url": "https://github.com/jasonzli-DEV/panel",
-      "score": 0.36923,
+      "score": 0.36913,
       "status": "Scored"
     },
     {
@@ -311,7 +311,7 @@
     {
       "repository": "jasonzli-DEV/Shard",
       "url": "https://github.com/jasonzli-DEV/Shard",
-      "score": 0.15205,
+      "score": 0.15648,
       "status": "Scored"
     },
     {
@@ -425,7 +425,7 @@
     {
       "repository": "reviactyl/desktop",
       "url": "https://github.com/reviactyl/desktop",
-      "score": 0.17722,
+      "score": 0.17987,
       "status": "Scored"
     },
     {
@@ -449,7 +449,7 @@
     {
       "repository": "reviactyl/headless",
       "url": "https://github.com/reviactyl/headless",
-      "score": 0.37267,
+      "score": 0.37259,
       "status": "Scored"
     },
     {
@@ -467,7 +467,7 @@
     {
       "repository": "reviactyl/panel",
       "url": "https://github.com/reviactyl/panel",
-      "score": 0.48282,
+      "score": 0.48275,
       "status": "Scored"
     },
     {
@@ -479,7 +479,7 @@
     {
       "repository": "reviactyl/revicons",
       "url": "https://github.com/reviactyl/revicons",
-      "score": 0.18793,
+      "score": 0.18713,
       "status": "Scored"
     },
     {
@@ -503,26 +503,26 @@
     {
       "repository": "reviactyl/vscode-extension",
       "url": "https://github.com/reviactyl/vscode-extension",
-      "score": 0.13881,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "reviactyl/web",
       "url": "https://github.com/reviactyl/web",
-      "score": 0.25709,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "reviactyl/whmcs",
       "url": "https://github.com/reviactyl/whmcs",
-      "score": 0.31495,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "xxtfrost/donutbot",
       "url": "https://github.com/xxtfrost/donutbot",
-      "score": 0.15239,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     }
   ]
 }
