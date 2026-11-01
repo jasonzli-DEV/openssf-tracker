@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 10:13:16 UTC",
+  "updated_at": "2026-11-01 11:02:43 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
@@ -77,7 +77,7 @@
     {
       "repository": "jasonzli-DEV/code",
       "url": "https://github.com/jasonzli-DEV/code",
-      "score": 0.42707,
+      "score": 0.42706,
       "status": "Scored"
     },
     {
@@ -137,20 +137,20 @@
     {
       "repository": "jasonzli-DEV/FreecamMC",
       "url": "https://github.com/jasonzli-DEV/FreecamMC",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.15304,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/gameCore",
       "url": "https://github.com/jasonzli-DEV/gameCore",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.15112,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/GD3-Bot",
       "url": "https://github.com/jasonzli-DEV/GD3-Bot",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.17785,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/ghostdeps",
@@ -161,14 +161,14 @@
     {
       "repository": "jasonzli-DEV/Ghostdeps-test",
       "url": "https://github.com/jasonzli-DEV/Ghostdeps-test",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.31304,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/jasonzli-DEV",
       "url": "https://github.com/jasonzli-DEV/jasonzli-DEV",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.1325,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/jasonzli-dev.github.io",
@@ -179,7 +179,7 @@
     {
       "repository": "jasonzli-DEV/jasonzli.dev",
       "url": "https://github.com/jasonzli-DEV/jasonzli.dev",
-      "score": 0.12438,
+      "score": 0.12498,
       "status": "Scored"
     },
     {
@@ -203,7 +203,7 @@
     {
       "repository": "jasonzli-DEV/MediaBox",
       "url": "https://github.com/jasonzli-DEV/MediaBox",
-      "score": 0.13028,
+      "score": 0.13011,
       "status": "Scored"
     },
     {
@@ -227,7 +227,7 @@
     {
       "repository": "jasonzli-DEV/minecraft-data",
       "url": "https://github.com/jasonzli-DEV/minecraft-data",
-      "score": 0.43128,
+      "score": 0.43073,
       "status": "Scored"
     },
     {
@@ -251,7 +251,7 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.14313,
+      "score": 0.14326,
       "status": "Scored"
     },
     {
@@ -383,7 +383,7 @@
     {
       "repository": "jasonzli-DEV/VeriHook",
       "url": "https://github.com/jasonzli-DEV/VeriHook",
-      "score": 0.1404,
+      "score": 0.14483,
       "status": "Scored"
     },
     {
@@ -419,7 +419,7 @@
     {
       "repository": "reviactyl/agent",
       "url": "https://github.com/reviactyl/agent",
-      "score": 0.45293,
+      "score": 0.45337,
       "status": "Scored"
     },
     {
@@ -473,7 +473,7 @@
     {
       "repository": "reviactyl/images",
       "url": "https://github.com/reviactyl/images",
-      "score": 0.3448,
+      "score": 0.34463,
       "status": "Scored"
     },
     {
@@ -485,7 +485,7 @@
     {
       "repository": "reviactyl/panel",
       "url": "https://github.com/reviactyl/panel",
-      "score": 0.4829,
+      "score": 0.48293,
       "status": "Scored"
     },
     {
