@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 12:45:26 UTC",
+  "updated_at": "2026-11-07 11:31:08 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
       "repository": "Automation-Inc/AdPilot",
       "url": "https://github.com/Automation-Inc/AdPilot",
-      "score": 0.15886,
+      "score": 0.17066,
       "status": "Scored"
     },
     {
@@ -83,32 +83,32 @@
     {
       "repository": "jasonzli-DEV/code",
       "url": "https://github.com/jasonzli-DEV/code",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.42715,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/codex-add",
       "url": "https://github.com/jasonzli-DEV/codex-add",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.11101,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/codex-roster",
       "url": "https://github.com/jasonzli-DEV/codex-roster",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.13277,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/cybrancee-bot-hosting-js",
       "url": "https://github.com/jasonzli-DEV/cybrancee-bot-hosting-js",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.22605,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/D-Drive",
       "url": "https://github.com/jasonzli-DEV/D-Drive",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.2264,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/Drive",
@@ -119,31 +119,31 @@
     {
       "repository": "jasonzli-DEV/Drive-Shift",
       "url": "https://github.com/jasonzli-DEV/Drive-Shift",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.16317,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/Fabric-Tutorial-1.21.X",
       "url": "https://github.com/jasonzli-DEV/Fabric-Tutorial-1.21.X",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.15112,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/fortniteLobbyBot",
       "url": "https://github.com/jasonzli-DEV/fortniteLobbyBot",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.17714,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/FREE6",
       "url": "https://github.com/jasonzli-DEV/FREE6",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.15494,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/FreecamMC",
       "url": "https://github.com/jasonzli-DEV/FreecamMC",
-      "score": 0.15041,
+      "score": 0.14941,
       "status": "Scored"
     },
     {
@@ -239,8 +239,8 @@
     {
       "repository": "jasonzli-DEV/mineflayer",
       "url": "https://github.com/jasonzli-DEV/mineflayer",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.42117,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/MinePanel",
@@ -257,50 +257,50 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.14399,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/oss-scanner",
       "url": "https://github.com/jasonzli-DEV/oss-scanner",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.32937,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/PacMan",
       "url": "https://github.com/jasonzli-DEV/PacMan",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.14257,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/panel",
       "url": "https://github.com/jasonzli-DEV/panel",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.36946,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/PDS-Bot",
       "url": "https://github.com/jasonzli-DEV/PDS-Bot",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.17643,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/Pterodactyl-Backup",
       "url": "https://github.com/jasonzli-DEV/Pterodactyl-Backup",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.1596,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/RBR-Bonus-Claimer",
       "url": "https://github.com/jasonzli-DEV/RBR-Bonus-Claimer",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.20628,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/Scout",
       "url": "https://github.com/jasonzli-DEV/Scout",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.13489,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/Screentime-Remover",
@@ -413,7 +413,7 @@
     {
       "repository": "jasonzli-DEV/YT-Watchtime",
       "url": "https://github.com/jasonzli-DEV/YT-Watchtime",
-      "score": 0.19392,
+      "score": 0.19445,
       "status": "Scored"
     },
     {
@@ -491,7 +491,7 @@
     {
       "repository": "reviactyl/panel",
       "url": "https://github.com/reviactyl/panel",
-      "score": 0.48457,
+      "score": 0.48458,
       "status": "Scored"
     },
     {
@@ -521,13 +521,13 @@
     {
       "repository": "reviactyl/sso-panel",
       "url": "https://github.com/reviactyl/sso-panel",
-      "score": 0.27078,
+      "score": 0.27061,
       "status": "Scored"
     },
     {
       "repository": "reviactyl/vscode-extension",
       "url": "https://github.com/reviactyl/vscode-extension",
-      "score": 0.13881,
+      "score": 0.15136,
       "status": "Scored"
     },
     {
