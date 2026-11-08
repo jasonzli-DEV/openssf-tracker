@@ -2,7 +2,7 @@
 
 Daily [OpenSSF Criticality Scores](https://github.com/ossf/criticality_score) for all repositories accessible to my GitHub account, including owned, collaborator, and organization repositories. Scores range from **0 to 1** and estimate project importance to the open-source ecosystem.
 
-Updated: **2026-11-07 11:31:08 UTC** · **86/91** repositories scored.
+Updated: **2026-11-08 11:42:59 UTC** · **86/91** repositories scored.
 
 | Repository | Criticality score | Status |
 | --- | ---: | --- |
@@ -10,14 +10,14 @@ Updated: **2026-11-07 11:31:08 UTC** · **86/91** repositories scored.
 | [jasonzli-DEV/t3code](https://github.com/jasonzli-DEV/t3code) | 0.46083 | Scored |
 | [reviactyl/agent](https://github.com/reviactyl/agent) | 0.45406 | Scored |
 | [jasonzli-DEV/minecraft-data](https://github.com/jasonzli-DEV/minecraft-data) | 0.43059 | Scored |
-| [jasonzli-DEV/code](https://github.com/jasonzli-DEV/code) | 0.42715 | Scored |
+| [jasonzli-DEV/code](https://github.com/jasonzli-DEV/code) | 0.42707 | Scored |
 | [jasonzli-DEV/mineflayer](https://github.com/jasonzli-DEV/mineflayer) | 0.42117 | Scored |
 | [ClassSMP/Essentials](https://github.com/ClassSMP/Essentials) | 0.37569 | Scored |
 | [reviactyl/headless](https://github.com/reviactyl/headless) | 0.37318 | Scored |
 | [jasonzli-DEV/panel](https://github.com/jasonzli-DEV/panel) | 0.36946 | Scored |
 | [reviactyl/blueprint](https://github.com/reviactyl/blueprint) | 0.36505 | Scored |
 | [reviactyl/images](https://github.com/reviactyl/images) | 0.34463 | Scored |
-| [jasonzli-DEV/oss-scanner](https://github.com/jasonzli-DEV/oss-scanner) | 0.32937 | Scored |
+| [jasonzli-DEV/oss-scanner](https://github.com/jasonzli-DEV/oss-scanner) | 0.34314 | Scored |
 | [reviactyl/whmcs](https://github.com/reviactyl/whmcs) | 0.31514 | Scored |
 | [jasonzli-DEV/Ghostdeps-test](https://github.com/jasonzli-DEV/Ghostdeps-test) | 0.31304 | Scored |
 | [jasonzli-DEV/2Bored2Tolerate](https://github.com/jasonzli-DEV/2Bored2Tolerate) | 0.29981 | Scored |
@@ -45,10 +45,10 @@ Updated: **2026-11-07 11:31:08 UTC** · **86/91** repositories scored.
 | [jasonzli-DEV/PDS-Bot](https://github.com/jasonzli-DEV/PDS-Bot) | 0.17643 | Scored |
 | [reviactyl/presets](https://github.com/reviactyl/presets) | 0.17618 | Scored |
 | [EnderBit-Hosting/Enderactyl](https://github.com/EnderBit-Hosting/Enderactyl) | 0.17494 | Scored |
-| [Automation-Inc/AdPilot](https://github.com/Automation-Inc/AdPilot) | 0.17066 | Scored |
+| [Automation-Inc/AdPilot](https://github.com/Automation-Inc/AdPilot) | 0.17142 | Scored |
 | [reviactyl/documentation](https://github.com/reviactyl/documentation) | 0.16957 | Scored |
 | [EnderBit-Hosting/enderbit](https://github.com/EnderBit-Hosting/enderbit) | 0.16691 | Scored |
-| [jasonzli-DEV/messageMe](https://github.com/jasonzli-DEV/messageMe) | 0.16609 | Scored |
+| [jasonzli-DEV/messageMe](https://github.com/jasonzli-DEV/messageMe) | 0.16591 | Scored |
 | [jasonzli-DEV/Drive-Shift](https://github.com/jasonzli-DEV/Drive-Shift) | 0.16317 | Scored |
 | [jasonzli-DEV/Jesters-Slave](https://github.com/jasonzli-DEV/Jesters-Slave) | 0.16109 | Scored |
 | [jasonzli-DEV/Pterodactyl-Backup](https://github.com/jasonzli-DEV/Pterodactyl-Backup) | 0.15960 | Scored |
@@ -71,7 +71,7 @@ Updated: **2026-11-07 11:31:08 UTC** · **86/91** repositories scored.
 | [jasonzli-DEV/Sellbot](https://github.com/jasonzli-DEV/Sellbot) | 0.14780 | Scored |
 | [ClassSMP/classsmp-core](https://github.com/ClassSMP/classsmp-core) | 0.14602 | Scored |
 | [jasonzli-DEV/VeriHook](https://github.com/jasonzli-DEV/VeriHook) | 0.14483 | Scored |
-| [jasonzli-DEV/openssf-tracker](https://github.com/jasonzli-DEV/openssf-tracker) | 0.14399 | Scored |
+| [jasonzli-DEV/openssf-tracker](https://github.com/jasonzli-DEV/openssf-tracker) | 0.14412 | Scored |
 | [jasonzli-DEV/capedmc.org](https://github.com/jasonzli-DEV/capedmc.org) | 0.14396 | Scored |
 | [jasonzli-DEV/ServerIcon](https://github.com/jasonzli-DEV/ServerIcon) | 0.14284 | Scored |
 | [jasonzli-DEV/PacMan](https://github.com/jasonzli-DEV/PacMan) | 0.14257 | Scored |

@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 11:31:08 UTC",
+  "updated_at": "2026-11-08 11:42:59 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
       "repository": "Automation-Inc/AdPilot",
       "url": "https://github.com/Automation-Inc/AdPilot",
-      "score": 0.17066,
+      "score": 0.17142,
       "status": "Scored"
     },
     {
@@ -83,7 +83,7 @@
     {
       "repository": "jasonzli-DEV/code",
       "url": "https://github.com/jasonzli-DEV/code",
-      "score": 0.42715,
+      "score": 0.42707,
       "status": "Scored"
     },
     {
@@ -215,7 +215,7 @@
     {
       "repository": "jasonzli-DEV/messageMe",
       "url": "https://github.com/jasonzli-DEV/messageMe",
-      "score": 0.16609,
+      "score": 0.16591,
       "status": "Scored"
     },
     {
@@ -257,13 +257,13 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.14399,
+      "score": 0.14412,
       "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/oss-scanner",
       "url": "https://github.com/jasonzli-DEV/oss-scanner",
-      "score": 0.32937,
+      "score": 0.34314,
       "status": "Scored"
     },
     {
