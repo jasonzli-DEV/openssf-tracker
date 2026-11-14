@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13 12:54:08 UTC",
+  "updated_at": "2026-11-14 11:58:42 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
       "repository": "Automation-Inc/AdPilot",
       "url": "https://github.com/Automation-Inc/AdPilot",
-      "score": 0.19291,
+      "score": 0.19415,
       "status": "Scored"
     },
     {
@@ -93,6 +93,12 @@
       "status": "Scored"
     },
     {
+      "repository": "jasonzli-DEV/BetterErrorsMC",
+      "url": "https://github.com/jasonzli-DEV/BetterErrorsMC",
+      "score": 0.11101,
+      "status": "Scored"
+    },
+    {
       "repository": "jasonzli-DEV/Brunt",
       "url": "https://github.com/jasonzli-DEV/Brunt",
       "score": 0.12461,
@@ -119,7 +125,7 @@
     {
       "repository": "jasonzli-DEV/code",
       "url": "https://github.com/jasonzli-DEV/code",
-      "score": 0.42696,
+      "score": 0.42694,
       "status": "Scored"
     },
     {
@@ -173,14 +179,14 @@
     {
       "repository": "jasonzli-DEV/FREE6",
       "url": "https://github.com/jasonzli-DEV/FREE6",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.15494,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/FreecamMC",
       "url": "https://github.com/jasonzli-DEV/FreecamMC",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.15953,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/gameCore",
@@ -203,7 +209,7 @@
     {
       "repository": "jasonzli-DEV/Ghostdeps-test",
       "url": "https://github.com/jasonzli-DEV/Ghostdeps-test",
-      "score": 0.31304,
+      "score": 0.31287,
       "status": "Scored"
     },
     {
@@ -233,7 +239,7 @@
     {
       "repository": "jasonzli-DEV/mc-status-widget-for-minecraft",
       "url": "https://github.com/jasonzli-DEV/mc-status-widget-for-minecraft",
-      "score": 0.22509,
+      "score": 0.22528,
       "status": "Scored"
     },
     {
@@ -281,7 +287,7 @@
     {
       "repository": "jasonzli-DEV/MinePanel",
       "url": "https://github.com/jasonzli-DEV/MinePanel",
-      "score": 0.1912,
+      "score": 0.19103,
       "status": "Scored"
     },
     {
@@ -293,7 +299,7 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.1528,
+      "score": 0.15292,
       "status": "Scored"
     },
     {
@@ -329,7 +335,7 @@
     {
       "repository": "jasonzli-DEV/RBR-Bonus-Claimer",
       "url": "https://github.com/jasonzli-DEV/RBR-Bonus-Claimer",
-      "score": 0.19068,
+      "score": 0.18528,
       "status": "Scored"
     },
     {
@@ -401,7 +407,7 @@
     {
       "repository": "jasonzli-DEV/SOL-Trading-Bot",
       "url": "https://github.com/jasonzli-DEV/SOL-Trading-Bot",
-      "score": 0.15196,
+      "score": 0.15502,
       "status": "Scored"
     },
     {
@@ -467,19 +473,19 @@
     {
       "repository": "reviactyl/agent",
       "url": "https://github.com/reviactyl/agent",
-      "score": 0.45406,
+      "score": 0.457,
       "status": "Scored"
     },
     {
       "repository": "reviactyl/benchmarking",
       "url": "https://github.com/reviactyl/benchmarking",
-      "score": 0.1405,
+      "score": 0.14493,
       "status": "Scored"
     },
     {
       "repository": "reviactyl/blueprint",
       "url": "https://github.com/reviactyl/blueprint",
-      "score": 0.36485,
+      "score": 0.36467,
       "status": "Scored"
     },
     {
@@ -497,7 +503,7 @@
     {
       "repository": "reviactyl/documentation",
       "url": "https://github.com/reviactyl/documentation",
-      "score": 0.18334,
+      "score": 0.18317,
       "status": "Scored"
     },
     {
@@ -515,8 +521,8 @@
     {
       "repository": "reviactyl/headless",
       "url": "https://github.com/reviactyl/headless",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.37317,
+      "status": "Scored"
     },
     {
       "repository": "reviactyl/images",
@@ -533,19 +539,19 @@
     {
       "repository": "reviactyl/panel",
       "url": "https://github.com/reviactyl/panel",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.48592,
+      "status": "Scored"
     },
     {
       "repository": "reviactyl/presets",
       "url": "https://github.com/reviactyl/presets",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.17618,
+      "status": "Scored"
     },
     {
       "repository": "reviactyl/revicons",
       "url": "https://github.com/reviactyl/revicons",
-      "score": 0.1886,
+      "score": 0.18842,
       "status": "Scored"
     },
     {
