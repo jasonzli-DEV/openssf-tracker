@@ -2,28 +2,28 @@
 
 Daily [OpenSSF Criticality Scores](https://github.com/ossf/criticality_score) for all repositories accessible to my GitHub account, including owned, collaborator, and organization repositories. Scores range from **0 to 1** and estimate project importance to the open-source ecosystem.
 
-Updated: **2026-11-14 11:58:42 UTC** · **94/99** repositories scored.
+Updated: **2026-11-15 12:31:13 UTC** · **94/99** repositories scored.
 
 | Repository | Criticality score | Status |
 | --- | ---: | --- |
-| [reviactyl/panel](https://github.com/reviactyl/panel) | 0.48592 | Scored |
+| [reviactyl/panel](https://github.com/reviactyl/panel) | 0.48598 | Scored |
 | [jasonzli-DEV/t3code](https://github.com/jasonzli-DEV/t3code) | 0.46062 | Scored |
-| [reviactyl/agent](https://github.com/reviactyl/agent) | 0.45700 | Scored |
+| [reviactyl/agent](https://github.com/reviactyl/agent) | 0.45729 | Scored |
 | [jasonzli-DEV/minecraft-data](https://github.com/jasonzli-DEV/minecraft-data) | 0.43013 | Scored |
-| [jasonzli-DEV/code](https://github.com/jasonzli-DEV/code) | 0.42694 | Scored |
+| [jasonzli-DEV/code](https://github.com/jasonzli-DEV/code) | 0.42691 | Scored |
 | [jasonzli-DEV/mineflayer](https://github.com/jasonzli-DEV/mineflayer) | 0.42090 | Scored |
 | [ClassSMP/Essentials](https://github.com/ClassSMP/Essentials) | 0.37558 | Scored |
 | [reviactyl/headless](https://github.com/reviactyl/headless) | 0.37317 | Scored |
-| [jasonzli-DEV/panel](https://github.com/jasonzli-DEV/panel) | 0.36946 | Scored |
+| [jasonzli-DEV/panel](https://github.com/jasonzli-DEV/panel) | 0.36945 | Scored |
 | [reviactyl/blueprint](https://github.com/reviactyl/blueprint) | 0.36467 | Scored |
 | [reviactyl/images](https://github.com/reviactyl/images) | 0.34463 | Scored |
 | [jasonzli-DEV/oss-scanner](https://github.com/jasonzli-DEV/oss-scanner) | 0.34314 | Scored |
-| [reviactyl/whmcs](https://github.com/reviactyl/whmcs) | 0.31514 | Scored |
+| [reviactyl/whmcs](https://github.com/reviactyl/whmcs) | 0.31496 | Scored |
 | [jasonzli-DEV/Ghostdeps-test](https://github.com/jasonzli-DEV/Ghostdeps-test) | 0.31287 | Scored |
 | [jasonzli-DEV/2Bored2Tolerate](https://github.com/jasonzli-DEV/2Bored2Tolerate) | 0.29964 | Scored |
 | [Cybrancee/cybralist](https://github.com/Cybrancee/cybralist) | 0.27724 | Scored |
 | [reviactyl/sso-panel](https://github.com/reviactyl/sso-panel) | 0.27061 | Scored |
-| [reviactyl/web](https://github.com/reviactyl/web) | 0.25853 | Scored |
+| [reviactyl/web](https://github.com/reviactyl/web) | 0.26773 | Scored |
 | [reviactyl/installer](https://github.com/reviactyl/installer) | 0.23948 | Scored |
 | [Cybrancee/cybralist-api](https://github.com/Cybrancee/cybralist-api) | 0.23269 | Scored |
 | [jasonzli-DEV/D-Drive](https://github.com/jasonzli-DEV/D-Drive) | 0.22640 | Scored |
@@ -32,8 +32,8 @@ Updated: **2026-11-14 11:58:42 UTC** · **94/99** repositories scored.
 | [Cybrancee/cybralist-js](https://github.com/Cybrancee/cybralist-js) | 0.22237 | Scored |
 | [Cybrancee/cybralist-py](https://github.com/Cybrancee/cybralist-py) | 0.19719 | Scored |
 | [jasonzli-DEV/Aura](https://github.com/jasonzli-DEV/Aura) | 0.19516 | Scored |
+| [Automation-Inc/AdPilot](https://github.com/Automation-Inc/AdPilot) | 0.19449 | Scored |
 | [jasonzli-DEV/YT-Watchtime](https://github.com/jasonzli-DEV/YT-Watchtime) | 0.19445 | Scored |
-| [Automation-Inc/AdPilot](https://github.com/Automation-Inc/AdPilot) | 0.19415 | Scored |
 | [reviactyl/.github](https://github.com/reviactyl/.github) | 0.19242 | Scored |
 | [jasonzli-DEV/MinePanel](https://github.com/jasonzli-DEV/MinePanel) | 0.19103 | Scored |
 | [reviactyl/rextstore-prototype](https://github.com/reviactyl/rextstore-prototype) | 0.19042 | Scored |
@@ -68,8 +68,9 @@ Updated: **2026-11-14 11:58:42 UTC** · **94/99** repositories scored.
 | [jasonzli-DEV/FREE6](https://github.com/jasonzli-DEV/FREE6) | 0.15494 | Scored |
 | [jasonzli-DEV/Co-Bot](https://github.com/jasonzli-DEV/Co-Bot) | 0.15408 | Scored |
 | [jasonzli-DEV/Fabric-Tutorial-1.21.X](https://github.com/jasonzli-DEV/Fabric-Tutorial-1.21.X) | 0.15329 | Scored |
-| [jasonzli-DEV/openssf-tracker](https://github.com/jasonzli-DEV/openssf-tracker) | 0.15292 | Scored |
+| [jasonzli-DEV/openssf-tracker](https://github.com/jasonzli-DEV/openssf-tracker) | 0.15305 | Scored |
 | [jasonzli-DEV/Autosell](https://github.com/jasonzli-DEV/Autosell) | 0.15272 | Scored |
+| [reviactyl/ExtensionPortingToolKit](https://github.com/reviactyl/ExtensionPortingToolKit) | 0.15214 | Scored |
 | [reviactyl/vscode-extension](https://github.com/reviactyl/vscode-extension) | 0.15136 | Scored |
 | [jasonzli-DEV/gameCore](https://github.com/jasonzli-DEV/gameCore) | 0.15112 | Scored |
 | [jasonzli-DEV/Axura-s-Allience-Bot-Issue-Tracker](https://github.com/jasonzli-DEV/Axura-s-Allience-Bot-Issue-Tracker) | 0.14865 | Scored |
@@ -84,7 +85,7 @@ Updated: **2026-11-14 11:58:42 UTC** · **94/99** repositories scored.
 | [jasonzli-DEV/VeriHook](https://github.com/jasonzli-DEV/VeriHook) | 0.14483 | Scored |
 | [jasonzli-DEV/capedmc.org](https://github.com/jasonzli-DEV/capedmc.org) | 0.14396 | Scored |
 | [jasonzli-DEV/Bedrock-Holes](https://github.com/jasonzli-DEV/Bedrock-Holes) | 0.14271 | Scored |
-| [reviactyl/ExtensionPortingToolKit](https://github.com/reviactyl/ExtensionPortingToolKit) | 0.13854 | Scored |
+| [jasonzli-DEV/BetterErrorsMC](https://github.com/jasonzli-DEV/BetterErrorsMC) | 0.13531 | Scored |
 | [jasonzli-DEV/Scout](https://github.com/jasonzli-DEV/Scout) | 0.13489 | Scored |
 | [jasonzli-DEV/SimpliSure](https://github.com/jasonzli-DEV/SimpliSure) | 0.13379 | Scored |
 | [jasonzli-DEV/codex-roster](https://github.com/jasonzli-DEV/codex-roster) | 0.13277 | Scored |
@@ -95,7 +96,6 @@ Updated: **2026-11-14 11:58:42 UTC** · **94/99** repositories scored.
 | [jasonzli-DEV/Brunt](https://github.com/jasonzli-DEV/Brunt) | 0.12461 | Scored |
 | [jasonzli-DEV/unity-projects-backup](https://github.com/jasonzli-DEV/unity-projects-backup) | 0.12461 | Scored |
 | [jasonzli-DEV/Clothes](https://github.com/jasonzli-DEV/Clothes) | 0.11290 | Scored |
-| [jasonzli-DEV/BetterErrorsMC](https://github.com/jasonzli-DEV/BetterErrorsMC) | 0.11101 | Scored |
 | [jasonzli-DEV/codex-add](https://github.com/jasonzli-DEV/codex-add) | 0.11101 | Scored |
 | [jasonzli-DEV/slot-signups](https://github.com/jasonzli-DEV/slot-signups) | 0.04573 | Scored |
 | [jasonzli-DEV/agent-code](https://github.com/jasonzli-DEV/agent-code) | 0.04363 | Scored |
