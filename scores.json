@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 13:16:35 UTC",
+  "updated_at": "2026-11-22 13:06:36 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
       "repository": "Automation-Inc/AdPilot",
       "url": "https://github.com/Automation-Inc/AdPilot",
-      "score": 0.19551,
+      "score": 0.19585,
       "status": "Scored"
     },
     {
@@ -17,7 +17,7 @@
     {
       "repository": "ClassSMP/Essentials",
       "url": "https://github.com/ClassSMP/Essentials",
-      "score": 0.37558,
+      "score": 0.37552,
       "status": "Scored"
     },
     {
@@ -125,7 +125,7 @@
     {
       "repository": "jasonzli-DEV/code",
       "url": "https://github.com/jasonzli-DEV/code",
-      "score": 0.42685,
+      "score": 0.42684,
       "status": "Scored"
     },
     {
@@ -275,7 +275,7 @@
     {
       "repository": "jasonzli-DEV/minecraft-data",
       "url": "https://github.com/jasonzli-DEV/minecraft-data",
-      "score": 0.42982,
+      "score": 0.42939,
       "status": "Scored"
     },
     {
@@ -299,50 +299,50 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.15369,
+      "score": 0.15381,
       "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/oss-scanner",
       "url": "https://github.com/jasonzli-DEV/oss-scanner",
-      "score": 0.34314,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "jasonzli-DEV/PacMan",
       "url": "https://github.com/jasonzli-DEV/PacMan",
-      "score": 0.14602,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "jasonzli-DEV/panel",
       "url": "https://github.com/jasonzli-DEV/panel",
-      "score": 0.36945,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "jasonzli-DEV/PDS-Bot",
       "url": "https://github.com/jasonzli-DEV/PDS-Bot",
-      "score": 0.17746,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "jasonzli-DEV/Pterodactyl-Backup",
       "url": "https://github.com/jasonzli-DEV/Pterodactyl-Backup",
-      "score": 0.1596,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "jasonzli-DEV/RBR-Bonus-Claimer",
       "url": "https://github.com/jasonzli-DEV/RBR-Bonus-Claimer",
-      "score": 0.18528,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "jasonzli-DEV/Scout",
       "url": "https://github.com/jasonzli-DEV/Scout",
-      "score": 0.14294,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "jasonzli-DEV/Screentime-Remover",
@@ -353,7 +353,7 @@
     {
       "repository": "jasonzli-DEV/Scribe",
       "url": "https://github.com/jasonzli-DEV/Scribe",
-      "score": 0.13703,
+      "score": 0.13686,
       "status": "Scored"
     },
     {
@@ -377,8 +377,8 @@
     {
       "repository": "jasonzli-DEV/ServerImporter",
       "url": "https://github.com/jasonzli-DEV/ServerImporter",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.14602,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/Shard",
@@ -473,7 +473,7 @@
     {
       "repository": "reviactyl/agent",
       "url": "https://github.com/reviactyl/agent",
-      "score": 0.45845,
+      "score": 0.45857,
       "status": "Scored"
     },
     {
@@ -485,20 +485,20 @@
     {
       "repository": "reviactyl/blueprint",
       "url": "https://github.com/reviactyl/blueprint",
-      "score": 0.36467,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "reviactyl/cdn",
       "url": "https://github.com/reviactyl/cdn",
-      "score": 0.18482,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "reviactyl/desktop",
       "url": "https://github.com/reviactyl/desktop",
-      "score": 0.18203,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "reviactyl/documentation",
@@ -509,7 +509,7 @@
     {
       "repository": "reviactyl/eggs",
       "url": "https://github.com/reviactyl/eggs",
-      "score": 0.19394,
+      "score": 0.197,
       "status": "Scored"
     },
     {
@@ -533,7 +533,7 @@
     {
       "repository": "reviactyl/installer",
       "url": "https://github.com/reviactyl/installer",
-      "score": 0.24213,
+      "score": 0.2432,
       "status": "Scored"
     },
     {
