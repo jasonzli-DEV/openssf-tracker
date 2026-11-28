@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-27 14:43:22 UTC",
+  "updated_at": "2026-11-28 13:55:16 UTC",
   "criticality_score_version": "v2.0.4",
   "repositories": [
     {
       "repository": "Automation-Inc/AdPilot",
       "url": "https://github.com/Automation-Inc/AdPilot",
-      "score": 0.19804,
+      "score": 0.19883,
       "status": "Scored"
     },
     {
@@ -17,7 +17,7 @@
     {
       "repository": "ClassSMP/Essentials",
       "url": "https://github.com/ClassSMP/Essentials",
-      "score": 0.37552,
+      "score": 0.37523,
       "status": "Scored"
     },
     {
@@ -47,7 +47,7 @@
     {
       "repository": "EnderBit-Hosting/Enderactyl",
       "url": "https://github.com/EnderBit-Hosting/Enderactyl",
-      "score": 0.17477,
+      "score": 0.1765,
       "status": "Scored"
     },
     {
@@ -107,7 +107,7 @@
     {
       "repository": "jasonzli-DEV/capedmc.org",
       "url": "https://github.com/jasonzli-DEV/capedmc.org",
-      "score": 0.14396,
+      "score": 0.14741,
       "status": "Scored"
     },
     {
@@ -125,32 +125,32 @@
     {
       "repository": "jasonzli-DEV/code",
       "url": "https://github.com/jasonzli-DEV/code",
-      "score": 0.42679,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "jasonzli-DEV/codex-add",
       "url": "https://github.com/jasonzli-DEV/codex-add",
-      "score": 0.12461,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "jasonzli-DEV/codex-roster",
       "url": "https://github.com/jasonzli-DEV/codex-roster",
-      "score": 0.13831,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "jasonzli-DEV/cybrancee-bot-hosting-js",
       "url": "https://github.com/jasonzli-DEV/cybrancee-bot-hosting-js",
-      "score": 0.22587,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "jasonzli-DEV/D-Drive",
       "url": "https://github.com/jasonzli-DEV/D-Drive",
-      "score": 0.22623,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "jasonzli-DEV/Drive",
@@ -161,8 +161,8 @@
     {
       "repository": "jasonzli-DEV/Drive-Shift",
       "url": "https://github.com/jasonzli-DEV/Drive-Shift",
-      "score": 0.16437,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "jasonzli-DEV/Fabric-Tutorial-1.21.X",
@@ -179,8 +179,8 @@
     {
       "repository": "jasonzli-DEV/FREE6",
       "url": "https://github.com/jasonzli-DEV/FREE6",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.15686,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/FreecamMC",
@@ -299,7 +299,7 @@
     {
       "repository": "jasonzli-DEV/openssf-tracker",
       "url": "https://github.com/jasonzli-DEV/openssf-tracker",
-      "score": 0.15436,
+      "score": 0.15447,
       "status": "Scored"
     },
     {
@@ -323,14 +323,14 @@
     {
       "repository": "jasonzli-DEV/PDS-Bot",
       "url": "https://github.com/jasonzli-DEV/PDS-Bot",
-      "score": 0.17746,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "jasonzli-DEV/Pterodactyl-Backup",
       "url": "https://github.com/jasonzli-DEV/Pterodactyl-Backup",
-      "score": 0.1596,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "jasonzli-DEV/RBR-Bonus-Claimer",
@@ -347,20 +347,20 @@
     {
       "repository": "jasonzli-DEV/Scout",
       "url": "https://github.com/jasonzli-DEV/Scout",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.14294,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/Screentime-Remover",
       "url": "https://github.com/jasonzli-DEV/Screentime-Remover",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.14602,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/Scribe",
       "url": "https://github.com/jasonzli-DEV/Scribe",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.13686,
+      "status": "Scored"
     },
     {
       "repository": "jasonzli-DEV/Sealms",
@@ -509,7 +509,7 @@
     {
       "repository": "KuroPlus/core",
       "url": "https://github.com/KuroPlus/core",
-      "score": 0.13986,
+      "score": 0.14037,
       "status": "Scored"
     },
     {
@@ -521,20 +521,20 @@
     {
       "repository": "KuroPlus/old-client",
       "url": "https://github.com/KuroPlus/old-client",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.19446,
+      "status": "Scored"
     },
     {
       "repository": "KuroPlus/web",
       "url": "https://github.com/KuroPlus/web",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.1829,
+      "status": "Scored"
     },
     {
       "repository": "reviactyl/.github",
       "url": "https://github.com/reviactyl/.github",
-      "score": null,
-      "status": "GitHub rate limit reached"
+      "score": 0.1937,
+      "status": "Scored"
     },
     {
       "repository": "reviactyl/agent",
@@ -575,14 +575,14 @@
     {
       "repository": "reviactyl/eggs",
       "url": "https://github.com/reviactyl/eggs",
-      "score": 0.19683,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "reviactyl/ExtensionPortingToolKit",
       "url": "https://github.com/reviactyl/ExtensionPortingToolKit",
-      "score": 0.15214,
-      "status": "Scored"
+      "score": null,
+      "status": "GitHub rate limit reached"
     },
     {
       "repository": "reviactyl/headless",
@@ -599,7 +599,7 @@
     {
       "repository": "reviactyl/installer",
       "url": "https://github.com/reviactyl/installer",
-      "score": 0.24283,
+      "score": 0.24227,
       "status": "Scored"
     },
     {
